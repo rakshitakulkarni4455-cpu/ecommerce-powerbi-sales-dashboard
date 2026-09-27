@@ -48,5 +48,5 @@ The underlying dataset contains 1,500 structured transaction records generated v
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/ecommerce-powerbi-sales-dashboard.git
+   git clone [https://github.com/](https://github.com/)rakshitakulkarni/ecommerce-powerbi-sales-dashboard.git
    cd ecommerce-powerbi-sales-dashboard
