@@ -1,0 +1,1501 @@
+OrderID,CustomerName,Category,Sub-Category,Amount,Profit,Quantity,PaymentMode,Month,Quarter
+ORD-1000,Rohan,Clothing,Saree,866,-66.43,2,COD,May,Qtr 2
+ORD-1001,Yogesh,Clothing,Shirt,3253,163.23,4,COD,August,Qtr 3
+ORD-1002,Wale,Furniture,Bookcases,10666,2034.29,1,COD,December,Qtr 4
+ORD-1003,Yohann,Clothing,Dress,3279,-376.54,4,COD,December,Qtr 4
+ORD-1004,Arjun,Electronics,Accessories,9013,653.12,2,Net Banking,February,Qtr 1
+ORD-1005,Arjun,Electronics,Phones,4652,509.48,3,UPI,August,Qtr 3
+ORD-1006,Wale,Electronics,Accessories,9489,542.79,4,Credit Card,October,Qtr 4
+ORD-1007,Yash,Furniture,Furnishings,3016,817.55,4,Net Banking,August,Qtr 3
+ORD-1008,Yaanvi,Furniture,Bookcases,6859,1300.59,2,COD,August,Qtr 3
+ORD-1009,Vrinda,Clothing,Saree,1767,248.83,1,Debit Card,September,Qtr 3
+ORD-1010,Vrinda,Clothing,Shirt,818,186.01,3,Debit Card,August,Qtr 3
+ORD-1011,Arjun,Clothing,Shirt,2263,347.08,1,UPI,July,Qtr 3
+ORD-1012,Yohann,Clothing,Trousers,1970,312.46,3,COD,December,Qtr 4
+ORD-1013,Priya,Electronics,Printers,5988,1278.15,3,UPI,July,Qtr 3
+ORD-1014,Priya,Clothing,Shirt,1420,237.1,4,COD,January,Qtr 1
+ORD-1015,Sneha,Furniture,Chairs,11914,2499.56,5,Credit Card,April,Qtr 2
+ORD-1016,Ananya,Furniture,Tables,5627,-425.84,4,Debit Card,May,Qtr 2
+ORD-1017,Vrinda,Clothing,Saree,1706,252.89,1,COD,January,Qtr 1
+ORD-1018,Wale,Furniture,Bookcases,14936,2412.33,3,COD,August,Qtr 3
+ORD-1019,Sneha,Electronics,Accessories,5263,703.32,1,COD,June,Qtr 2
+ORD-1020,Priya,Furniture,Furnishings,9280,780.08,3,COD,February,Qtr 1
+ORD-1021,Yogesh,Furniture,Chairs,7855,2033.67,5,Credit Card,December,Qtr 4
+ORD-1022,Wale,Clothing,Dress,602,81.28,4,Credit Card,July,Qtr 3
+ORD-1023,Wale,Furniture,Bookcases,13774,974.74,3,Credit Card,June,Qtr 2
+ORD-1024,Yohann,Furniture,Furnishings,9098,915.76,4,Credit Card,April,Qtr 2
+ORD-1025,Priya,Electronics,Phones,4476,633.09,1,COD,April,Qtr 2
+ORD-1026,Arjun,Electronics,Laptops,7034,1771.08,1,COD,September,Qtr 3
+ORD-1027,Ananya,Clothing,Dress,1280,135.2,4,COD,April,Qtr 2
+ORD-1028,Sneha,Clothing,Dress,2082,-286.44,1,Credit Card,July,Qtr 3
+ORD-1029,Vrinda,Electronics,Laptops,11137,2270.47,4,Debit Card,August,Qtr 3
+ORD-1030,Yohann,Electronics,Laptops,4461,388.04,5,COD,September,Qtr 3
+ORD-1031,Ananya,Electronics,Accessories,7199,752.78,1,Credit Card,April,Qtr 2
+ORD-1032,Rohan,Clothing,Dress,800,-76.78,3,COD,July,Qtr 3
+ORD-1033,Wale,Electronics,Accessories,10254,2616.52,5,COD,June,Qtr 2
+ORD-1034,Vrinda,Electronics,Accessories,9496,-1182.64,1,COD,December,Qtr 4
+ORD-1035,Yaanvi,Clothing,Dress,2168,583.64,3,Net Banking,June,Qtr 2
+ORD-1036,Yohann,Clothing,Trousers,1539,181.18,1,Net Banking,December,Qtr 4
+ORD-1037,Yogesh,Furniture,Furnishings,7854,1917.7,2,Credit Card,September,Qtr 3
+ORD-1038,Wale,Furniture,Tables,9806,-1191.28,2,COD,July,Qtr 3
+ORD-1039,Priya,Electronics,Phones,7486,815.43,2,UPI,October,Qtr 4
+ORD-1040,Ananya,Electronics,Laptops,3868,256.51,5,Credit Card,April,Qtr 2
+ORD-1041,Priya,Clothing,Trousers,1233,-93.83,2,Debit Card,December,Qtr 4
+ORD-1042,Kartik,Clothing,Trousers,2115,124.64,1,COD,October,Qtr 4
+ORD-1043,Vrinda,Clothing,Shirt,1995,198.78,5,COD,August,Qtr 3
+ORD-1044,Yash,Electronics,Laptops,8299,2277.63,4,Debit Card,March,Qtr 1
+ORD-1045,Rohan,Electronics,Accessories,6677,454.34,4,COD,March,Qtr 1
+ORD-1046,Ananya,Clothing,Saree,2064,185.47,5,COD,December,Qtr 4
+ORD-1047,Ananya,Clothing,Trousers,1296,349.43,5,COD,August,Qtr 3
+ORD-1048,Priya,Electronics,Phones,5749,758.14,4,Credit Card,March,Qtr 1
+ORD-1049,Arjun,Electronics,Printers,3641,-335.55,1,COD,May,Qtr 2
+ORD-1050,Yash,Clothing,Dress,2470,150.8,5,Debit Card,January,Qtr 1
+ORD-1051,Kartik,Furniture,Furnishings,4489,741.76,3,COD,October,Qtr 4
+ORD-1052,Rohan,Electronics,Printers,10587,-1212.09,2,COD,July,Qtr 3
+ORD-1053,Yohann,Electronics,Printers,6887,955.94,5,Credit Card,November,Qtr 4
+ORD-1054,Arjun,Furniture,Tables,12738,2448.22,5,COD,February,Qtr 1
+ORD-1055,Kartik,Clothing,Trousers,3469,823.29,2,COD,October,Qtr 4
+ORD-1056,Yogesh,Clothing,Dress,1128,264.86,5,UPI,November,Qtr 4
+ORD-1057,Rohan,Clothing,Trousers,1522,220.54,1,Credit Card,March,Qtr 1
+ORD-1058,Priya,Clothing,Shirt,1948,428.91,4,Credit Card,May,Qtr 2
+ORD-1059,Ananya,Clothing,Saree,1098,80.15,5,Credit Card,June,Qtr 2
+ORD-1060,Arjun,Clothing,Saree,1117,229.72,4,Debit Card,September,Qtr 3
+ORD-1061,Yaanvi,Electronics,Accessories,5991,-735.46,3,Credit Card,May,Qtr 2
+ORD-1062,Yaanvi,Electronics,Printers,8041,1418.37,2,COD,October,Qtr 4
+ORD-1063,Sneha,Clothing,Shirt,3480,783.51,4,Credit Card,February,Qtr 1
+ORD-1064,Rohan,Electronics,Printers,8438,1792.53,1,Debit Card,October,Qtr 4
+ORD-1065,Rohan,Clothing,Saree,2080,557.16,4,COD,January,Qtr 1
+ORD-1066,Arjun,Furniture,Furnishings,4923,878.43,5,COD,March,Qtr 1
+ORD-1067,Yohann,Clothing,Trousers,1481,326.45,4,COD,February,Qtr 1
+ORD-1068,Vrinda,Electronics,Phones,2004,272.99,5,Credit Card,March,Qtr 1
+ORD-1069,Yaanvi,Clothing,Dress,1084,296.01,2,Credit Card,June,Qtr 2
+ORD-1070,Yaanvi,Clothing,Saree,1652,178.73,4,COD,November,Qtr 4
+ORD-1071,Ananya,Electronics,Printers,11088,2331.73,1,Credit Card,January,Qtr 1
+ORD-1072,Arjun,Clothing,Shirt,1067,135.72,4,COD,October,Qtr 4
+ORD-1073,Kartik,Clothing,Dress,939,-139.43,2,Credit Card,December,Qtr 4
+ORD-1074,Yaanvi,Electronics,Printers,4279,480.62,5,COD,April,Qtr 2
+ORD-1075,Yogesh,Clothing,Shirt,2238,585.04,5,Debit Card,March,Qtr 1
+ORD-1076,Yaanvi,Clothing,Trousers,773,-43.71,1,Debit Card,July,Qtr 3
+ORD-1077,Sneha,Electronics,Phones,5500,867.9,1,COD,November,Qtr 4
+ORD-1078,Priya,Clothing,Saree,2400,414.96,4,COD,June,Qtr 2
+ORD-1079,Yaanvi,Electronics,Phones,6309,1548.35,5,Credit Card,May,Qtr 2
+ORD-1080,Yash,Electronics,Accessories,11515,699.95,1,COD,January,Qtr 1
+ORD-1081,Yogesh,Clothing,Shirt,667,158.59,3,UPI,June,Qtr 2
+ORD-1082,Ananya,Furniture,Tables,8996,1772.69,5,Debit Card,January,Qtr 1
+ORD-1083,Arjun,Furniture,Chairs,8241,1618.76,2,COD,February,Qtr 1
+ORD-1084,Yash,Electronics,Phones,11050,1560.31,1,Debit Card,September,Qtr 3
+ORD-1085,Yash,Electronics,Phones,6949,1576.39,1,UPI,October,Qtr 4
+ORD-1086,Yaanvi,Clothing,Saree,2573,503.49,5,Net Banking,February,Qtr 1
+ORD-1087,Priya,Clothing,Shirt,2335,460.93,3,Credit Card,July,Qtr 3
+ORD-1088,Sneha,Clothing,Shirt,3081,312.68,5,Debit Card,February,Qtr 1
+ORD-1089,Wale,Furniture,Tables,8376,-453.66,1,COD,May,Qtr 2
+ORD-1090,Ananya,Clothing,Shirt,3278,448.35,3,COD,September,Qtr 3
+ORD-1091,Vrinda,Clothing,Dress,2115,207.59,5,Debit Card,March,Qtr 1
+ORD-1092,Arjun,Clothing,Trousers,764,49.15,2,COD,July,Qtr 3
+ORD-1093,Sneha,Clothing,Shirt,3253,561.15,5,Debit Card,December,Qtr 4
+ORD-1094,Priya,Clothing,Saree,1654,116.64,1,COD,September,Qtr 3
+ORD-1095,Yash,Electronics,Printers,9061,2097.71,4,Debit Card,September,Qtr 3
+ORD-1096,Wale,Electronics,Phones,8391,665.77,1,Credit Card,February,Qtr 1
+ORD-1097,Yogesh,Clothing,Trousers,1276,160.75,3,Debit Card,November,Qtr 4
+ORD-1098,Wale,Furniture,Bookcases,13613,1264.79,4,COD,June,Qtr 2
+ORD-1099,Ananya,Clothing,Shirt,642,-96.11,3,COD,July,Qtr 3
+ORD-1100,Yash,Furniture,Furnishings,4551,984.23,1,Net Banking,June,Qtr 2
+ORD-1101,Rohan,Furniture,Tables,8316,1887.59,3,Credit Card,October,Qtr 4
+ORD-1102,Yash,Clothing,Trousers,512,87.99,4,UPI,January,Qtr 1
+ORD-1103,Yaanvi,Electronics,Accessories,8488,1464.14,4,COD,November,Qtr 4
+ORD-1104,Yaanvi,Clothing,Trousers,2619,-130.07,2,Credit Card,July,Qtr 3
+ORD-1105,Sneha,Clothing,Saree,1518,400.44,3,UPI,August,Qtr 3
+ORD-1106,Yaanvi,Furniture,Furnishings,7256,704.92,3,Credit Card,August,Qtr 3
+ORD-1107,Wale,Clothing,Saree,1272,-166.33,5,UPI,December,Qtr 4
+ORD-1108,Kartik,Clothing,Shirt,2172,402.49,1,UPI,April,Qtr 2
+ORD-1109,Yohann,Electronics,Laptops,6642,1002.35,1,Credit Card,June,Qtr 2
+ORD-1110,Priya,Electronics,Printers,5187,532.58,5,Debit Card,February,Qtr 1
+ORD-1111,Priya,Electronics,Accessories,7067,624.36,2,Net Banking,March,Qtr 1
+ORD-1112,Priya,Furniture,Bookcases,4204,356.86,4,Credit Card,November,Qtr 4
+ORD-1113,Vrinda,Clothing,Saree,916,230.52,2,UPI,April,Qtr 2
+ORD-1114,Yash,Clothing,Trousers,2462,574.58,4,Credit Card,August,Qtr 3
+ORD-1115,Yogesh,Clothing,Shirt,3202,576.57,3,Credit Card,November,Qtr 4
+ORD-1116,Sneha,Electronics,Phones,10054,857.31,2,COD,October,Qtr 4
+ORD-1117,Vrinda,Electronics,Accessories,5031,369.82,4,COD,August,Qtr 3
+ORD-1118,Rohan,Furniture,Bookcases,10795,1469.42,1,Net Banking,October,Qtr 4
+ORD-1119,Rohan,Clothing,Shirt,1830,143.19,3,UPI,September,Qtr 3
+ORD-1120,Wale,Clothing,Trousers,3472,-364.7,1,Debit Card,July,Qtr 3
+ORD-1121,Kartik,Clothing,Saree,516,97.45,1,UPI,April,Qtr 2
+ORD-1122,Sneha,Clothing,Dress,874,191.95,2,Credit Card,June,Qtr 2
+ORD-1123,Sneha,Electronics,Phones,3490,307.36,1,COD,March,Qtr 1
+ORD-1124,Sneha,Clothing,Saree,2603,257.48,2,COD,June,Qtr 2
+ORD-1125,Vrinda,Electronics,Printers,6682,1866.16,4,Net Banking,April,Qtr 2
+ORD-1126,Priya,Electronics,Printers,2451,628.81,3,COD,March,Qtr 1
+ORD-1127,Rohan,Clothing,Saree,1168,266.74,2,Credit Card,March,Qtr 1
+ORD-1128,Vrinda,Electronics,Accessories,6426,473.5,3,Credit Card,February,Qtr 1
+ORD-1129,Kartik,Clothing,Shirt,2301,393.73,3,Net Banking,October,Qtr 4
+ORD-1130,Yogesh,Furniture,Chairs,13271,746.26,5,COD,July,Qtr 3
+ORD-1131,Rohan,Clothing,Shirt,3026,768.95,1,Credit Card,June,Qtr 2
+ORD-1132,Rohan,Electronics,Laptops,6047,1615.84,3,COD,August,Qtr 3
+ORD-1133,Yogesh,Clothing,Trousers,1174,-62.82,2,COD,July,Qtr 3
+ORD-1134,Yogesh,Furniture,Bookcases,8035,1022.45,5,Credit Card,January,Qtr 1
+ORD-1135,Arjun,Furniture,Chairs,2804,404.24,5,Credit Card,April,Qtr 2
+ORD-1136,Yohann,Electronics,Accessories,2887,237.39,2,Debit Card,April,Qtr 2
+ORD-1137,Priya,Furniture,Furnishings,5186,870.55,2,Net Banking,January,Qtr 1
+ORD-1138,Priya,Electronics,Accessories,4041,1116.98,3,Credit Card,September,Qtr 3
+ORD-1139,Yaanvi,Electronics,Printers,11867,914.74,2,UPI,November,Qtr 4
+ORD-1140,Yaanvi,Electronics,Accessories,3122,232.63,2,COD,September,Qtr 3
+ORD-1141,Wale,Clothing,Shirt,2715,531.09,2,Debit Card,November,Qtr 4
+ORD-1142,Kartik,Electronics,Accessories,4181,614.89,4,Debit Card,May,Qtr 2
+ORD-1143,Yash,Furniture,Bookcases,6124,854.53,2,COD,March,Qtr 1
+ORD-1144,Sneha,Clothing,Dress,1733,-247.91,3,Debit Card,July,Qtr 3
+ORD-1145,Yash,Electronics,Printers,8601,2319.73,3,COD,March,Qtr 1
+ORD-1146,Yaanvi,Clothing,Saree,2743,596.56,1,UPI,September,Qtr 3
+ORD-1147,Ananya,Electronics,Phones,2752,-111.67,3,Credit Card,July,Qtr 3
+ORD-1148,Sneha,Clothing,Saree,1440,386.72,5,COD,January,Qtr 1
+ORD-1149,Rohan,Clothing,Shirt,2150,465.57,5,COD,March,Qtr 1
+ORD-1150,Ananya,Electronics,Laptops,5493,-246.41,3,COD,December,Qtr 4
+ORD-1151,Yaanvi,Electronics,Printers,1890,109.26,2,COD,June,Qtr 2
+ORD-1152,Rohan,Electronics,Printers,3000,477.21,3,COD,February,Qtr 1
+ORD-1153,Sneha,Furniture,Chairs,9693,1813.97,1,Credit Card,October,Qtr 4
+ORD-1154,Yohann,Clothing,Dress,3383,512.31,3,Credit Card,May,Qtr 2
+ORD-1155,Wale,Electronics,Laptops,10184,1951.75,5,Credit Card,September,Qtr 3
+ORD-1156,Yogesh,Clothing,Shirt,1697,451.38,5,Credit Card,November,Qtr 4
+ORD-1157,Vrinda,Electronics,Phones,1771,-220.51,4,COD,May,Qtr 2
+ORD-1158,Vrinda,Clothing,Shirt,1565,185.16,3,Credit Card,January,Qtr 1
+ORD-1159,Ananya,Furniture,Tables,10173,614.18,5,COD,January,Qtr 1
+ORD-1160,Arjun,Clothing,Saree,2228,514.35,2,UPI,November,Qtr 4
+ORD-1161,Rohan,Clothing,Trousers,2673,236.34,5,Net Banking,November,Qtr 4
+ORD-1162,Wale,Furniture,Chairs,5564,432.2,3,Credit Card,May,Qtr 2
+ORD-1163,Yohann,Clothing,Saree,2196,427.89,5,COD,August,Qtr 3
+ORD-1164,Kartik,Clothing,Saree,2314,326.59,5,Net Banking,January,Qtr 1
+ORD-1165,Yohann,Electronics,Accessories,8787,1950.81,5,Net Banking,March,Qtr 1
+ORD-1166,Yogesh,Clothing,Dress,1351,150.08,1,Credit Card,November,Qtr 4
+ORD-1167,Yogesh,Clothing,Saree,920,-111.2,2,COD,December,Qtr 4
+ORD-1168,Rohan,Clothing,Dress,1599,262.32,5,COD,November,Qtr 4
+ORD-1169,Arjun,Clothing,Dress,992,-95.99,5,COD,May,Qtr 2
+ORD-1170,Yogesh,Furniture,Chairs,12188,1357.94,3,COD,August,Qtr 3
+ORD-1171,Arjun,Furniture,Chairs,3704,469.75,3,Debit Card,January,Qtr 1
+ORD-1172,Sneha,Clothing,Saree,2454,620.31,4,UPI,June,Qtr 2
+ORD-1173,Priya,Furniture,Bookcases,4719,599.68,2,COD,October,Qtr 4
+ORD-1174,Yogesh,Electronics,Phones,6843,474.51,2,COD,December,Qtr 4
+ORD-1175,Arjun,Electronics,Laptops,2507,187.04,5,COD,August,Qtr 3
+ORD-1176,Yogesh,Electronics,Accessories,3882,1026.27,4,Credit Card,December,Qtr 4
+ORD-1177,Yash,Furniture,Furnishings,11109,2365.9,1,UPI,November,Qtr 4
+ORD-1178,Sneha,Electronics,Accessories,8937,2447.87,2,Credit Card,February,Qtr 1
+ORD-1179,Yash,Furniture,Furnishings,11098,2651.84,5,Credit Card,December,Qtr 4
+ORD-1180,Kartik,Furniture,Chairs,5356,1431.07,2,UPI,February,Qtr 1
+ORD-1181,Priya,Clothing,Saree,2223,153.27,4,COD,November,Qtr 4
+ORD-1182,Yohann,Electronics,Accessories,2488,664.37,4,COD,January,Qtr 1
+ORD-1183,Yohann,Clothing,Shirt,1810,220.37,5,Net Banking,September,Qtr 3
+ORD-1184,Yohann,Clothing,Trousers,1191,160.5,1,COD,January,Qtr 1
+ORD-1185,Arjun,Furniture,Furnishings,5676,1297.63,1,Credit Card,September,Qtr 3
+ORD-1186,Priya,Electronics,Accessories,2459,289.32,5,Credit Card,March,Qtr 1
+ORD-1187,Ananya,Furniture,Tables,14157,2940.13,1,Credit Card,July,Qtr 3
+ORD-1188,Wale,Clothing,Saree,516,95.85,5,COD,June,Qtr 2
+ORD-1189,Rohan,Clothing,Dress,2413,-255.78,2,Credit Card,May,Qtr 2
+ORD-1190,Arjun,Clothing,Saree,1815,393.1,1,UPI,June,Qtr 2
+ORD-1191,Ananya,Electronics,Printers,4220,754.2,4,COD,June,Qtr 2
+ORD-1192,Vrinda,Clothing,Dress,2349,135.39,1,COD,January,Qtr 1
+ORD-1193,Wale,Clothing,Trousers,2109,-93.91,2,COD,July,Qtr 3
+ORD-1194,Yohann,Electronics,Laptops,8417,1614.54,1,Credit Card,November,Qtr 4
+ORD-1195,Rohan,Electronics,Printers,4889,1125.39,2,UPI,August,Qtr 3
+ORD-1196,Yash,Electronics,Phones,1521,234.28,2,COD,April,Qtr 2
+ORD-1197,Sneha,Electronics,Printers,11826,2360.09,4,COD,February,Qtr 1
+ORD-1198,Priya,Electronics,Phones,3427,858.54,5,COD,April,Qtr 2
+ORD-1199,Yogesh,Clothing,Dress,1061,134.14,2,Credit Card,June,Qtr 2
+ORD-1200,Kartik,Electronics,Phones,7736,1131.25,3,UPI,March,Qtr 1
+ORD-1201,Yaanvi,Clothing,Shirt,2471,365.37,5,Credit Card,October,Qtr 4
+ORD-1202,Arjun,Clothing,Dress,2112,355.28,2,UPI,August,Qtr 3
+ORD-1203,Yash,Electronics,Accessories,11489,2305.29,2,UPI,February,Qtr 1
+ORD-1204,Arjun,Furniture,Tables,2529,493.81,5,Debit Card,March,Qtr 1
+ORD-1205,Yash,Electronics,Phones,10631,-908.24,2,UPI,July,Qtr 3
+ORD-1206,Arjun,Clothing,Saree,529,38.04,1,COD,August,Qtr 3
+ORD-1207,Yogesh,Electronics,Printers,5856,730.79,5,Net Banking,March,Qtr 1
+ORD-1208,Priya,Electronics,Laptops,2129,189.58,2,COD,November,Qtr 4
+ORD-1209,Ananya,Electronics,Accessories,7395,1419.42,5,UPI,January,Qtr 1
+ORD-1210,Arjun,Electronics,Laptops,7552,997.23,3,COD,September,Qtr 3
+ORD-1211,Arjun,Electronics,Printers,2890,721.64,4,Debit Card,August,Qtr 3
+ORD-1212,Yogesh,Clothing,Saree,1443,89.31,5,COD,September,Qtr 3
+ORD-1213,Yaanvi,Electronics,Phones,10700,1973.87,5,Credit Card,November,Qtr 4
+ORD-1214,Rohan,Electronics,Laptops,1625,436.99,3,Net Banking,November,Qtr 4
+ORD-1215,Rohan,Electronics,Printers,10610,2157.85,2,Credit Card,November,Qtr 4
+ORD-1216,Yash,Clothing,Dress,1291,264.51,2,COD,February,Qtr 1
+ORD-1217,Wale,Furniture,Bookcases,7238,-685.36,2,UPI,May,Qtr 2
+ORD-1218,Vrinda,Electronics,Laptops,11555,-1225.6,3,Debit Card,December,Qtr 4
+ORD-1219,Yaanvi,Furniture,Tables,10125,2038.21,2,COD,September,Qtr 3
+ORD-1220,Vrinda,Furniture,Tables,14975,3340.3,1,COD,September,Qtr 3
+ORD-1221,Yash,Clothing,Shirt,893,234.77,5,UPI,February,Qtr 1
+ORD-1222,Ananya,Clothing,Trousers,1788,425.73,3,UPI,July,Qtr 3
+ORD-1223,Vrinda,Electronics,Printers,6306,1132.5,2,COD,December,Qtr 4
+ORD-1224,Vrinda,Electronics,Printers,8510,755.2,4,COD,March,Qtr 1
+ORD-1225,Yohann,Electronics,Accessories,7971,-341.32,2,Credit Card,May,Qtr 2
+ORD-1226,Yaanvi,Clothing,Dress,3230,-394.56,4,COD,December,Qtr 4
+ORD-1227,Priya,Electronics,Phones,6743,1817.72,5,COD,November,Qtr 4
+ORD-1228,Yaanvi,Electronics,Phones,7512,1442.24,3,COD,June,Qtr 2
+ORD-1229,Arjun,Electronics,Accessories,7039,1513.78,2,COD,March,Qtr 1
+ORD-1230,Ananya,Clothing,Saree,1462,249.69,4,Credit Card,November,Qtr 4
+ORD-1231,Kartik,Electronics,Laptops,6703,1080.63,4,UPI,August,Qtr 3
+ORD-1232,Kartik,Furniture,Bookcases,9285,1564.43,5,COD,November,Qtr 4
+ORD-1233,Kartik,Electronics,Accessories,7252,1763.46,2,COD,August,Qtr 3
+ORD-1234,Sneha,Furniture,Furnishings,14337,-1632.36,4,Credit Card,May,Qtr 2
+ORD-1235,Vrinda,Furniture,Chairs,14868,-2005.81,2,Credit Card,July,Qtr 3
+ORD-1236,Yaanvi,Clothing,Saree,1946,201.11,4,COD,March,Qtr 1
+ORD-1237,Ananya,Clothing,Saree,662,138.94,3,COD,February,Qtr 1
+ORD-1238,Ananya,Clothing,Trousers,1398,179.57,3,Credit Card,January,Qtr 1
+ORD-1239,Kartik,Furniture,Furnishings,7101,-749.39,5,UPI,July,Qtr 3
+ORD-1240,Ananya,Clothing,Saree,2204,373.32,4,COD,July,Qtr 3
+ORD-1241,Rohan,Furniture,Chairs,10258,1770.33,2,Credit Card,June,Qtr 2
+ORD-1242,Yogesh,Clothing,Shirt,3217,-286.63,4,COD,July,Qtr 3
+ORD-1243,Yash,Clothing,Trousers,2734,611.36,5,Credit Card,May,Qtr 2
+ORD-1244,Arjun,Clothing,Trousers,3427,545.66,4,Credit Card,January,Qtr 1
+ORD-1245,Rohan,Clothing,Shirt,2403,632.49,5,COD,June,Qtr 2
+ORD-1246,Yash,Electronics,Printers,11458,2851.64,2,UPI,June,Qtr 2
+ORD-1247,Yogesh,Electronics,Laptops,7282,804.78,1,UPI,April,Qtr 2
+ORD-1248,Ananya,Clothing,Saree,2266,543.42,1,COD,September,Qtr 3
+ORD-1249,Priya,Clothing,Trousers,805,132.26,3,Credit Card,June,Qtr 2
+ORD-1250,Arjun,Furniture,Bookcases,12917,3074.42,2,COD,January,Qtr 1
+ORD-1251,Wale,Clothing,Dress,472,58.61,4,Credit Card,March,Qtr 1
+ORD-1252,Yogesh,Clothing,Shirt,665,159.05,2,UPI,April,Qtr 2
+ORD-1253,Vrinda,Clothing,Trousers,3346,900.55,5,COD,June,Qtr 2
+ORD-1254,Rohan,Furniture,Bookcases,2963,-297.63,2,COD,May,Qtr 2
+ORD-1255,Yash,Furniture,Furnishings,7947,1953.64,5,Credit Card,February,Qtr 1
+ORD-1256,Arjun,Clothing,Shirt,2734,-247.64,3,Credit Card,July,Qtr 3
+ORD-1257,Rohan,Clothing,Shirt,1522,102.22,3,UPI,September,Qtr 3
+ORD-1258,Arjun,Electronics,Accessories,3138,322.1,4,COD,January,Qtr 1
+ORD-1259,Yash,Clothing,Dress,821,121.51,4,COD,April,Qtr 2
+ORD-1260,Yohann,Clothing,Dress,2539,408.21,3,Credit Card,July,Qtr 3
+ORD-1261,Yogesh,Clothing,Saree,2693,624.18,5,COD,November,Qtr 4
+ORD-1262,Priya,Electronics,Phones,7856,-486.08,1,COD,May,Qtr 2
+ORD-1263,Yohann,Clothing,Dress,2842,439.11,4,Credit Card,January,Qtr 1
+ORD-1264,Yash,Furniture,Chairs,6719,1475.44,4,COD,February,Qtr 1
+ORD-1265,Wale,Electronics,Printers,4172,1125.3,5,Credit Card,October,Qtr 4
+ORD-1266,Yogesh,Electronics,Printers,10812,2631.65,5,Net Banking,December,Qtr 4
+ORD-1267,Priya,Furniture,Bookcases,8869,1742.17,3,Debit Card,February,Qtr 1
+ORD-1268,Yohann,Electronics,Laptops,7730,1595.88,4,Credit Card,May,Qtr 2
+ORD-1269,Yohann,Clothing,Shirt,3111,181.0,3,UPI,August,Qtr 3
+ORD-1270,Yash,Electronics,Laptops,6830,1380.45,4,COD,November,Qtr 4
+ORD-1271,Yaanvi,Clothing,Shirt,1973,136.14,2,Credit Card,June,Qtr 2
+ORD-1272,Rohan,Electronics,Printers,4509,917.54,1,COD,September,Qtr 3
+ORD-1273,Ananya,Clothing,Dress,777,124.32,1,Credit Card,September,Qtr 3
+ORD-1274,Arjun,Furniture,Tables,12613,2040.58,2,UPI,November,Qtr 4
+ORD-1275,Arjun,Furniture,Furnishings,2521,322.19,3,Debit Card,February,Qtr 1
+ORD-1276,Rohan,Furniture,Chairs,9128,800.04,4,COD,November,Qtr 4
+ORD-1277,Yohann,Clothing,Dress,2569,610.57,5,COD,January,Qtr 1
+ORD-1278,Yogesh,Furniture,Bookcases,9165,-1101.03,5,COD,May,Qtr 2
+ORD-1279,Wale,Electronics,Laptops,11060,2937.53,3,COD,June,Qtr 2
+ORD-1280,Yaanvi,Clothing,Trousers,1886,313.73,3,COD,April,Qtr 2
+ORD-1281,Yaanvi,Furniture,Bookcases,10894,810.12,3,Credit Card,January,Qtr 1
+ORD-1282,Ananya,Clothing,Trousers,2576,-181.79,2,Debit Card,May,Qtr 2
+ORD-1283,Sneha,Clothing,Dress,1828,399.61,2,Debit Card,September,Qtr 3
+ORD-1284,Ananya,Electronics,Phones,11973,2694.26,4,UPI,April,Qtr 2
+ORD-1285,Ananya,Clothing,Saree,3491,437.05,5,COD,February,Qtr 1
+ORD-1286,Yohann,Clothing,Shirt,2579,-324.55,2,Credit Card,May,Qtr 2
+ORD-1287,Yaanvi,Clothing,Trousers,2649,509.95,5,COD,June,Qtr 2
+ORD-1288,Vrinda,Clothing,Saree,925,200.15,4,COD,July,Qtr 3
+ORD-1289,Rohan,Clothing,Dress,2338,261.99,2,Credit Card,February,Qtr 1
+ORD-1290,Yohann,Furniture,Bookcases,2541,700.94,5,Credit Card,June,Qtr 2
+ORD-1291,Yash,Clothing,Dress,1606,167.42,1,Credit Card,July,Qtr 3
+ORD-1292,Sneha,Clothing,Dress,1541,304.79,4,UPI,September,Qtr 3
+ORD-1293,Sneha,Clothing,Dress,474,104.37,4,Credit Card,June,Qtr 2
+ORD-1294,Kartik,Furniture,Bookcases,7068,1491.76,3,COD,February,Qtr 1
+ORD-1295,Vrinda,Electronics,Accessories,4110,1094.72,5,COD,November,Qtr 4
+ORD-1296,Yaanvi,Clothing,Trousers,2496,-293.68,4,COD,May,Qtr 2
+ORD-1297,Yogesh,Electronics,Accessories,4339,944.98,1,UPI,March,Qtr 1
+ORD-1298,Arjun,Electronics,Accessories,9210,-381.98,1,COD,December,Qtr 4
+ORD-1299,Arjun,Clothing,Trousers,2374,613.53,3,COD,July,Qtr 3
+ORD-1300,Ananya,Clothing,Trousers,1240,201.06,4,Credit Card,June,Qtr 2
+ORD-1301,Sneha,Clothing,Dress,2643,323.75,5,Credit Card,September,Qtr 3
+ORD-1302,Yogesh,Electronics,Accessories,2671,212.18,3,Debit Card,August,Qtr 3
+ORD-1303,Arjun,Furniture,Bookcases,6260,1725.87,1,COD,August,Qtr 3
+ORD-1304,Yaanvi,Clothing,Shirt,2338,282.9,1,UPI,August,Qtr 3
+ORD-1305,Ananya,Furniture,Furnishings,14916,1518.79,2,COD,January,Qtr 1
+ORD-1306,Vrinda,Clothing,Shirt,972,240.89,5,UPI,January,Qtr 1
+ORD-1307,Vrinda,Electronics,Printers,3017,468.87,2,UPI,January,Qtr 1
+ORD-1308,Wale,Electronics,Printers,8485,1326.44,2,COD,September,Qtr 3
+ORD-1309,Arjun,Clothing,Saree,970,150.96,4,UPI,August,Qtr 3
+ORD-1310,Priya,Clothing,Shirt,1577,-153.18,4,Credit Card,May,Qtr 2
+ORD-1311,Yash,Clothing,Saree,3448,-349.55,3,UPI,December,Qtr 4
+ORD-1312,Rohan,Electronics,Laptops,3077,506.16,1,Credit Card,December,Qtr 4
+ORD-1313,Sneha,Electronics,Printers,4051,376.53,5,COD,March,Qtr 1
+ORD-1314,Yash,Clothing,Dress,3014,596.21,5,UPI,May,Qtr 2
+ORD-1315,Yash,Furniture,Tables,4822,921.48,4,COD,June,Qtr 2
+ORD-1316,Rohan,Clothing,Shirt,2667,257.27,1,COD,June,Qtr 2
+ORD-1317,Sneha,Clothing,Saree,3437,658.25,4,UPI,May,Qtr 2
+ORD-1318,Priya,Furniture,Furnishings,12102,945.89,5,UPI,January,Qtr 1
+ORD-1319,Wale,Electronics,Accessories,9938,793.65,3,COD,October,Qtr 4
+ORD-1320,Ananya,Electronics,Phones,9333,637.1,2,Credit Card,April,Qtr 2
+ORD-1321,Ananya,Electronics,Printers,2145,457.65,2,COD,April,Qtr 2
+ORD-1322,Arjun,Clothing,Shirt,3172,-433.87,1,Debit Card,December,Qtr 4
+ORD-1323,Rohan,Electronics,Laptops,10672,1564.81,1,UPI,October,Qtr 4
+ORD-1324,Kartik,Furniture,Chairs,4326,834.11,1,Credit Card,November,Qtr 4
+ORD-1325,Sneha,Clothing,Saree,1123,247.1,1,Debit Card,March,Qtr 1
+ORD-1326,Arjun,Clothing,Shirt,2083,-147.31,1,UPI,July,Qtr 3
+ORD-1327,Wale,Electronics,Laptops,11028,-1579.36,3,Debit Card,May,Qtr 2
+ORD-1328,Arjun,Furniture,Chairs,14000,3515.01,3,Debit Card,February,Qtr 1
+ORD-1329,Rohan,Clothing,Shirt,900,158.16,4,COD,June,Qtr 2
+ORD-1330,Sneha,Clothing,Trousers,680,99.91,1,Debit Card,April,Qtr 2
+ORD-1331,Ananya,Clothing,Trousers,3346,747.53,3,COD,March,Qtr 1
+ORD-1332,Ananya,Furniture,Furnishings,14920,1712.07,4,Net Banking,November,Qtr 4
+ORD-1333,Yaanvi,Furniture,Tables,2285,138.49,1,COD,April,Qtr 2
+ORD-1334,Sneha,Electronics,Laptops,11961,2245.39,3,COD,May,Qtr 2
+ORD-1335,Wale,Furniture,Tables,11277,2624.76,5,UPI,September,Qtr 3
+ORD-1336,Yogesh,Clothing,Shirt,1748,188.84,5,COD,May,Qtr 2
+ORD-1337,Ananya,Electronics,Printers,10668,692.12,3,COD,April,Qtr 2
+ORD-1338,Rohan,Furniture,Furnishings,8317,-1149.22,4,Credit Card,December,Qtr 4
+ORD-1339,Wale,Clothing,Dress,578,60.46,1,Net Banking,April,Qtr 2
+ORD-1340,Arjun,Electronics,Laptops,1693,190.4,4,COD,March,Qtr 1
+ORD-1341,Priya,Electronics,Printers,11628,687.75,1,Credit Card,June,Qtr 2
+ORD-1342,Arjun,Electronics,Phones,11832,1878.73,1,COD,October,Qtr 4
+ORD-1343,Yash,Electronics,Accessories,8296,1439.45,1,Credit Card,August,Qtr 3
+ORD-1344,Sneha,Furniture,Bookcases,6697,1047.79,4,COD,April,Qtr 2
+ORD-1345,Sneha,Clothing,Dress,2200,523.24,1,Credit Card,June,Qtr 2
+ORD-1346,Yohann,Clothing,Saree,1974,322.78,1,COD,November,Qtr 4
+ORD-1347,Vrinda,Electronics,Phones,9710,1403.43,4,Credit Card,August,Qtr 3
+ORD-1348,Vrinda,Furniture,Bookcases,5321,1148.91,4,COD,October,Qtr 4
+ORD-1349,Priya,Furniture,Tables,8993,980.59,4,COD,January,Qtr 1
+ORD-1350,Yogesh,Electronics,Printers,3274,-156.53,3,Credit Card,May,Qtr 2
+ORD-1351,Yogesh,Clothing,Shirt,2897,736.56,2,UPI,September,Qtr 3
+ORD-1352,Wale,Electronics,Accessories,9218,2313.26,1,Credit Card,September,Qtr 3
+ORD-1353,Wale,Electronics,Phones,5508,810.05,2,UPI,March,Qtr 1
+ORD-1354,Kartik,Clothing,Saree,973,173.67,5,COD,May,Qtr 2
+ORD-1355,Yaanvi,Electronics,Printers,8063,1651.16,3,COD,June,Qtr 2
+ORD-1356,Arjun,Clothing,Saree,2223,-313.06,2,Debit Card,December,Qtr 4
+ORD-1357,Kartik,Clothing,Dress,1541,327.13,1,Debit Card,November,Qtr 4
+ORD-1358,Arjun,Electronics,Phones,8064,2054.08,4,Credit Card,May,Qtr 2
+ORD-1359,Yogesh,Clothing,Saree,1850,-195.28,3,Credit Card,December,Qtr 4
+ORD-1360,Yogesh,Clothing,Dress,1232,91.43,4,Credit Card,April,Qtr 2
+ORD-1361,Rohan,Clothing,Trousers,2522,204.87,3,Credit Card,August,Qtr 3
+ORD-1362,Sneha,Clothing,Trousers,2241,273.49,3,COD,October,Qtr 4
+ORD-1363,Yaanvi,Clothing,Saree,1972,532.17,5,COD,October,Qtr 4
+ORD-1364,Yogesh,Clothing,Shirt,2816,-159.59,1,Credit Card,December,Qtr 4
+ORD-1365,Yash,Clothing,Dress,2752,474.5,5,COD,May,Qtr 2
+ORD-1366,Kartik,Clothing,Shirt,1161,73.44,5,Credit Card,February,Qtr 1
+ORD-1367,Sneha,Clothing,Dress,1922,-288.24,4,COD,July,Qtr 3
+ORD-1368,Yohann,Clothing,Trousers,2551,318.72,3,Credit Card,January,Qtr 1
+ORD-1369,Yaanvi,Electronics,Phones,10348,2209.33,4,COD,August,Qtr 3
+ORD-1370,Yaanvi,Furniture,Chairs,12037,2078.54,3,Net Banking,February,Qtr 1
+ORD-1371,Priya,Furniture,Bookcases,11168,-489.05,5,UPI,December,Qtr 4
+ORD-1372,Arjun,Furniture,Chairs,14869,2756.84,4,Credit Card,December,Qtr 4
+ORD-1373,Priya,Clothing,Saree,1103,180.05,3,Credit Card,November,Qtr 4
+ORD-1374,Sneha,Electronics,Phones,3470,654.05,4,Debit Card,February,Qtr 1
+ORD-1375,Ananya,Electronics,Phones,8584,1296.22,4,Net Banking,August,Qtr 3
+ORD-1376,Wale,Furniture,Furnishings,8980,1503.25,3,COD,March,Qtr 1
+ORD-1377,Yogesh,Electronics,Phones,7345,1588.15,5,UPI,June,Qtr 2
+ORD-1378,Yaanvi,Electronics,Accessories,5235,-666.28,2,Credit Card,December,Qtr 4
+ORD-1379,Vrinda,Furniture,Tables,3088,397.15,3,UPI,August,Qtr 3
+ORD-1380,Rohan,Electronics,Phones,3735,752.47,5,COD,August,Qtr 3
+ORD-1381,Rohan,Electronics,Laptops,6397,434.1,1,UPI,July,Qtr 3
+ORD-1382,Rohan,Clothing,Trousers,2415,160.92,4,COD,March,Qtr 1
+ORD-1383,Yogesh,Furniture,Chairs,12614,3073.74,1,Debit Card,August,Qtr 3
+ORD-1384,Yogesh,Clothing,Trousers,2631,310.24,5,COD,October,Qtr 4
+ORD-1385,Priya,Clothing,Shirt,3180,585.59,3,Credit Card,August,Qtr 3
+ORD-1386,Yaanvi,Furniture,Bookcases,14050,2795.92,3,Credit Card,May,Qtr 2
+ORD-1387,Kartik,Furniture,Chairs,7575,1345.1,4,Debit Card,October,Qtr 4
+ORD-1388,Arjun,Electronics,Accessories,8346,647.56,5,COD,April,Qtr 2
+ORD-1389,Priya,Furniture,Furnishings,9927,1933.76,2,COD,February,Qtr 1
+ORD-1390,Ananya,Clothing,Dress,2284,138.81,2,Credit Card,January,Qtr 1
+ORD-1391,Rohan,Clothing,Trousers,2837,302.91,1,Debit Card,February,Qtr 1
+ORD-1392,Ananya,Electronics,Printers,5732,1397.6,3,Net Banking,January,Qtr 1
+ORD-1393,Yohann,Clothing,Dress,597,81.66,1,Debit Card,March,Qtr 1
+ORD-1394,Priya,Furniture,Bookcases,14091,2755.12,5,COD,October,Qtr 4
+ORD-1395,Yaanvi,Electronics,Accessories,10620,1211.12,3,COD,May,Qtr 2
+ORD-1396,Yaanvi,Electronics,Printers,7342,1454.85,3,COD,April,Qtr 2
+ORD-1397,Priya,Clothing,Saree,1778,276.07,1,Credit Card,December,Qtr 4
+ORD-1398,Priya,Clothing,Dress,2657,470.23,5,COD,September,Qtr 3
+ORD-1399,Ananya,Clothing,Trousers,1351,268.81,3,COD,June,Qtr 2
+ORD-1400,Yogesh,Electronics,Phones,8670,1062.89,4,Credit Card,September,Qtr 3
+ORD-1401,Wale,Electronics,Printers,10047,699.56,1,UPI,June,Qtr 2
+ORD-1402,Wale,Clothing,Saree,3012,335.98,2,COD,June,Qtr 2
+ORD-1403,Wale,Furniture,Tables,12197,2599.89,2,COD,August,Qtr 3
+ORD-1404,Wale,Furniture,Chairs,5253,584.84,4,Credit Card,January,Qtr 1
+ORD-1405,Arjun,Electronics,Printers,5423,838.57,1,Net Banking,October,Qtr 4
+ORD-1406,Kartik,Clothing,Saree,2105,-112.03,3,Credit Card,December,Qtr 4
+ORD-1407,Ananya,Clothing,Dress,2966,385.76,2,COD,January,Qtr 1
+ORD-1408,Yaanvi,Clothing,Dress,3070,630.53,5,Credit Card,April,Qtr 2
+ORD-1409,Ananya,Electronics,Laptops,10335,2654.8,5,UPI,August,Qtr 3
+ORD-1410,Arjun,Electronics,Printers,10933,-724.94,4,COD,December,Qtr 4
+ORD-1411,Arjun,Electronics,Laptops,11244,1145.06,1,Credit Card,June,Qtr 2
+ORD-1412,Ananya,Clothing,Trousers,2714,748.47,3,Debit Card,October,Qtr 4
+ORD-1413,Arjun,Electronics,Laptops,2572,689.04,3,COD,November,Qtr 4
+ORD-1414,Ananya,Clothing,Trousers,2176,574.55,2,Credit Card,February,Qtr 1
+ORD-1415,Wale,Electronics,Printers,3446,775.52,2,Credit Card,January,Qtr 1
+ORD-1416,Yaanvi,Clothing,Trousers,3161,289.14,2,UPI,June,Qtr 2
+ORD-1417,Rohan,Electronics,Phones,10311,-1312.03,5,COD,December,Qtr 4
+ORD-1418,Ananya,Furniture,Furnishings,11467,3197.1,3,UPI,April,Qtr 2
+ORD-1419,Arjun,Electronics,Accessories,8686,786.1,5,Credit Card,November,Qtr 4
+ORD-1420,Yash,Clothing,Trousers,1196,-174.16,3,Net Banking,December,Qtr 4
+ORD-1421,Rohan,Electronics,Accessories,8476,1317.12,4,Net Banking,October,Qtr 4
+ORD-1422,Wale,Electronics,Laptops,3968,206.65,4,Credit Card,June,Qtr 2
+ORD-1423,Sneha,Clothing,Dress,2187,-281.93,2,Credit Card,May,Qtr 2
+ORD-1424,Yohann,Clothing,Shirt,1596,123.3,5,COD,December,Qtr 4
+ORD-1425,Vrinda,Clothing,Shirt,726,98.37,5,Net Banking,September,Qtr 3
+ORD-1426,Yohann,Clothing,Saree,3165,611.06,3,COD,January,Qtr 1
+ORD-1427,Sneha,Furniture,Bookcases,5008,527.3,4,Credit Card,February,Qtr 1
+ORD-1428,Priya,Clothing,Saree,1464,86.31,3,Net Banking,October,Qtr 4
+ORD-1429,Rohan,Clothing,Saree,2003,368.1,5,COD,September,Qtr 3
+ORD-1430,Arjun,Clothing,Shirt,2850,236.77,3,Credit Card,October,Qtr 4
+ORD-1431,Rohan,Clothing,Shirt,861,-81.56,5,Net Banking,May,Qtr 2
+ORD-1432,Yohann,Clothing,Saree,874,-83.7,4,COD,July,Qtr 3
+ORD-1433,Yash,Clothing,Dress,2983,598.3,5,Debit Card,February,Qtr 1
+ORD-1434,Yaanvi,Clothing,Saree,678,179.08,4,Credit Card,August,Qtr 3
+ORD-1435,Ananya,Clothing,Saree,3013,401.63,4,UPI,September,Qtr 3
+ORD-1436,Wale,Electronics,Laptops,5807,598.1,5,COD,May,Qtr 2
+ORD-1437,Yohann,Electronics,Laptops,11680,2623.16,1,COD,April,Qtr 2
+ORD-1438,Ananya,Electronics,Accessories,1705,134.41,3,COD,November,Qtr 4
+ORD-1439,Priya,Clothing,Shirt,709,131.77,5,Debit Card,August,Qtr 3
+ORD-1440,Kartik,Electronics,Phones,10212,1142.06,3,Credit Card,October,Qtr 4
+ORD-1441,Yash,Electronics,Accessories,7254,1629.04,1,COD,April,Qtr 2
+ORD-1442,Yohann,Clothing,Saree,2936,449.87,1,UPI,April,Qtr 2
+ORD-1443,Sneha,Clothing,Shirt,1406,294.92,1,UPI,June,Qtr 2
+ORD-1444,Yogesh,Electronics,Accessories,4024,332.78,1,COD,November,Qtr 4
+ORD-1445,Yohann,Clothing,Dress,1499,306.31,1,Net Banking,January,Qtr 1
+ORD-1446,Yohann,Clothing,Dress,1967,273.54,4,Credit Card,October,Qtr 4
+ORD-1447,Yash,Furniture,Bookcases,12016,3282.28,2,COD,March,Qtr 1
+ORD-1448,Yohann,Clothing,Dress,1392,379.21,1,Credit Card,June,Qtr 2
+ORD-1449,Wale,Clothing,Saree,2255,483.28,5,COD,August,Qtr 3
+ORD-1450,Kartik,Furniture,Furnishings,9262,1123.03,4,COD,September,Qtr 3
+ORD-1451,Ananya,Clothing,Dress,3462,894.58,3,Debit Card,May,Qtr 2
+ORD-1452,Arjun,Electronics,Laptops,11616,-891.48,3,COD,May,Qtr 2
+ORD-1453,Rohan,Electronics,Accessories,1549,231.63,1,Credit Card,November,Qtr 4
+ORD-1454,Priya,Electronics,Printers,5265,1151.47,1,COD,April,Qtr 2
+ORD-1455,Wale,Clothing,Shirt,2215,251.52,4,Credit Card,August,Qtr 3
+ORD-1456,Kartik,Clothing,Saree,917,161.38,2,COD,January,Qtr 1
+ORD-1457,Kartik,Furniture,Bookcases,5802,983.62,1,UPI,April,Qtr 2
+ORD-1458,Ananya,Clothing,Shirt,2059,363.23,2,COD,March,Qtr 1
+ORD-1459,Priya,Electronics,Accessories,3018,811.32,5,Credit Card,November,Qtr 4
+ORD-1460,Yohann,Clothing,Trousers,2814,498.86,3,UPI,April,Qtr 2
+ORD-1461,Sneha,Electronics,Accessories,9019,1716.33,1,Net Banking,October,Qtr 4
+ORD-1462,Yogesh,Clothing,Dress,3042,226.2,1,COD,April,Qtr 2
+ORD-1463,Yohann,Clothing,Shirt,1671,-191.85,3,COD,May,Qtr 2
+ORD-1464,Priya,Clothing,Saree,482,130.26,1,COD,January,Qtr 1
+ORD-1465,Wale,Clothing,Saree,1241,64.42,1,Credit Card,June,Qtr 2
+ORD-1466,Yaanvi,Clothing,Shirt,766,83.88,4,Debit Card,September,Qtr 3
+ORD-1467,Yohann,Clothing,Saree,442,86.93,4,Credit Card,August,Qtr 3
+ORD-1468,Priya,Clothing,Dress,550,33.83,5,COD,January,Qtr 1
+ORD-1469,Ananya,Furniture,Furnishings,7039,1827.1,3,COD,May,Qtr 2
+ORD-1470,Sneha,Clothing,Trousers,1761,414.14,2,Credit Card,February,Qtr 1
+ORD-1471,Rohan,Furniture,Chairs,2869,633.66,2,COD,March,Qtr 1
+ORD-1472,Kartik,Electronics,Accessories,9286,1614.06,1,COD,January,Qtr 1
+ORD-1473,Yaanvi,Clothing,Dress,967,223.47,2,Debit Card,September,Qtr 3
+ORD-1474,Arjun,Clothing,Trousers,1079,163.78,2,COD,June,Qtr 2
+ORD-1475,Yogesh,Electronics,Printers,8852,852.03,3,UPI,February,Qtr 1
+ORD-1476,Wale,Electronics,Phones,4778,547.74,4,COD,August,Qtr 3
+ORD-1477,Vrinda,Electronics,Accessories,6603,1114.44,5,UPI,June,Qtr 2
+ORD-1478,Priya,Electronics,Laptops,2302,541.76,5,UPI,March,Qtr 1
+ORD-1479,Rohan,Clothing,Dress,676,149.25,1,COD,October,Qtr 4
+ORD-1480,Priya,Clothing,Dress,1971,385.15,5,UPI,July,Qtr 3
+ORD-1481,Yaanvi,Clothing,Dress,2556,423.58,3,Debit Card,September,Qtr 3
+ORD-1482,Priya,Clothing,Trousers,2918,455.86,4,UPI,January,Qtr 1
+ORD-1483,Yaanvi,Clothing,Shirt,3119,653.77,5,Credit Card,July,Qtr 3
+ORD-1484,Yaanvi,Clothing,Saree,1045,241.99,5,UPI,February,Qtr 1
+ORD-1485,Vrinda,Clothing,Trousers,898,94.79,2,COD,November,Qtr 4
+ORD-1486,Yogesh,Clothing,Dress,3482,370.59,2,Credit Card,September,Qtr 3
+ORD-1487,Wale,Clothing,Trousers,1932,-262.48,3,COD,December,Qtr 4
+ORD-1488,Vrinda,Electronics,Laptops,7118,1250.9,2,UPI,February,Qtr 1
+ORD-1489,Vrinda,Electronics,Printers,5890,-369.23,5,Credit Card,May,Qtr 2
+ORD-1490,Kartik,Clothing,Saree,592,32.07,5,UPI,January,Qtr 1
+ORD-1491,Yohann,Electronics,Printers,10859,-1074.2,3,UPI,May,Qtr 2
+ORD-1492,Ananya,Furniture,Bookcases,13186,1525.19,4,Debit Card,March,Qtr 1
+ORD-1493,Yogesh,Electronics,Printers,6494,344.67,5,COD,September,Qtr 3
+ORD-1494,Yohann,Clothing,Saree,3198,558.39,4,Debit Card,February,Qtr 1
+ORD-1495,Vrinda,Furniture,Furnishings,8476,1990.82,2,Credit Card,February,Qtr 1
+ORD-1496,Kartik,Clothing,Dress,402,52.51,3,Net Banking,March,Qtr 1
+ORD-1497,Yash,Clothing,Shirt,2307,139.4,4,UPI,November,Qtr 4
+ORD-1498,Sneha,Clothing,Dress,3352,171.7,1,COD,February,Qtr 1
+ORD-1499,Ananya,Furniture,Bookcases,2249,395.93,1,COD,April,Qtr 2
+ORD-1500,Kartik,Electronics,Accessories,6830,1316.2,1,Debit Card,April,Qtr 2
+ORD-1501,Arjun,Electronics,Phones,2490,466.49,5,UPI,June,Qtr 2
+ORD-1502,Yaanvi,Electronics,Laptops,4391,698.18,2,Debit Card,June,Qtr 2
+ORD-1503,Rohan,Electronics,Accessories,8904,885.32,1,COD,November,Qtr 4
+ORD-1504,Sneha,Clothing,Dress,2961,239.07,2,UPI,January,Qtr 1
+ORD-1505,Vrinda,Clothing,Shirt,638,125.34,1,UPI,June,Qtr 2
+ORD-1506,Arjun,Electronics,Printers,2422,452.72,2,COD,May,Qtr 2
+ORD-1507,Priya,Electronics,Phones,5440,1207.7,4,Debit Card,July,Qtr 3
+ORD-1508,Wale,Clothing,Saree,2014,358.87,3,COD,May,Qtr 2
+ORD-1509,Sneha,Electronics,Accessories,5672,1360.4,5,Credit Card,August,Qtr 3
+ORD-1510,Wale,Furniture,Chairs,11867,1484.88,4,Debit Card,November,Qtr 4
+ORD-1511,Yohann,Electronics,Laptops,7896,972.5,3,UPI,November,Qtr 4
+ORD-1512,Yohann,Furniture,Chairs,14795,2966.38,3,COD,June,Qtr 2
+ORD-1513,Rohan,Clothing,Trousers,1391,168.39,1,COD,February,Qtr 1
+ORD-1514,Yohann,Clothing,Dress,2585,361.48,5,Credit Card,March,Qtr 1
+ORD-1515,Sneha,Clothing,Saree,972,135.62,2,UPI,February,Qtr 1
+ORD-1516,Sneha,Clothing,Shirt,1738,274.49,4,Debit Card,February,Qtr 1
+ORD-1517,Vrinda,Clothing,Trousers,2344,388.92,4,Credit Card,October,Qtr 4
+ORD-1518,Priya,Furniture,Bookcases,9031,2407.57,2,UPI,June,Qtr 2
+ORD-1519,Sneha,Clothing,Saree,1605,181.87,1,COD,September,Qtr 3
+ORD-1520,Vrinda,Clothing,Dress,805,124.53,4,Debit Card,August,Qtr 3
+ORD-1521,Yogesh,Electronics,Printers,2635,146.88,2,Net Banking,April,Qtr 2
+ORD-1522,Wale,Clothing,Shirt,489,69.65,3,Debit Card,April,Qtr 2
+ORD-1523,Yogesh,Clothing,Saree,2010,374.57,2,Debit Card,April,Qtr 2
+ORD-1524,Rohan,Clothing,Trousers,1039,199.23,1,UPI,October,Qtr 4
+ORD-1525,Priya,Clothing,Trousers,1604,375.36,3,UPI,November,Qtr 4
+ORD-1526,Yash,Furniture,Bookcases,2464,-224.6,2,Net Banking,May,Qtr 2
+ORD-1527,Arjun,Furniture,Tables,7750,-1070.34,5,COD,July,Qtr 3
+ORD-1528,Yogesh,Clothing,Trousers,3017,-209.81,4,COD,July,Qtr 3
+ORD-1529,Yash,Clothing,Dress,2440,665.11,5,Credit Card,March,Qtr 1
+ORD-1530,Sneha,Clothing,Dress,1261,69.0,5,COD,August,Qtr 3
+ORD-1531,Yash,Furniture,Furnishings,13349,-646.26,2,COD,May,Qtr 2
+ORD-1532,Yogesh,Furniture,Furnishings,4011,769.95,3,COD,July,Qtr 3
+ORD-1533,Rohan,Electronics,Accessories,4683,421.83,4,Credit Card,March,Qtr 1
+ORD-1534,Kartik,Furniture,Bookcases,8324,1217.63,2,Credit Card,September,Qtr 3
+ORD-1535,Yogesh,Electronics,Printers,9580,2378.78,4,COD,March,Qtr 1
+ORD-1536,Vrinda,Clothing,Shirt,3428,557.26,4,COD,September,Qtr 3
+ORD-1537,Wale,Electronics,Phones,1726,403.77,4,Credit Card,March,Qtr 1
+ORD-1538,Ananya,Clothing,Shirt,3324,893.6,5,Credit Card,August,Qtr 3
+ORD-1539,Arjun,Clothing,Shirt,2443,432.69,4,UPI,October,Qtr 4
+ORD-1540,Wale,Clothing,Dress,452,51.57,4,COD,August,Qtr 3
+ORD-1541,Wale,Clothing,Saree,2453,333.97,1,Credit Card,June,Qtr 2
+ORD-1542,Arjun,Electronics,Phones,7418,1348.9,3,Debit Card,January,Qtr 1
+ORD-1543,Ananya,Clothing,Dress,2019,216.89,2,UPI,May,Qtr 2
+ORD-1544,Vrinda,Clothing,Shirt,3164,327.07,4,Credit Card,April,Qtr 2
+ORD-1545,Vrinda,Clothing,Saree,1751,458.36,2,COD,August,Qtr 3
+ORD-1546,Sneha,Clothing,Trousers,1180,186.03,3,Credit Card,October,Qtr 4
+ORD-1547,Priya,Electronics,Printers,9178,1718.94,2,UPI,February,Qtr 1
+ORD-1548,Yogesh,Furniture,Furnishings,3647,467.89,5,COD,November,Qtr 4
+ORD-1549,Yash,Electronics,Laptops,8122,636.62,4,UPI,October,Qtr 4
+ORD-1550,Yash,Electronics,Accessories,10759,599.74,1,Credit Card,September,Qtr 3
+ORD-1551,Arjun,Clothing,Saree,3421,890.97,5,COD,January,Qtr 1
+ORD-1552,Vrinda,Clothing,Shirt,1282,285.47,2,COD,November,Qtr 4
+ORD-1553,Kartik,Clothing,Saree,823,217.03,5,COD,May,Qtr 2
+ORD-1554,Yohann,Clothing,Saree,2368,246.08,1,UPI,June,Qtr 2
+ORD-1555,Yogesh,Clothing,Saree,1270,141.05,3,COD,August,Qtr 3
+ORD-1556,Arjun,Electronics,Phones,9038,1504.43,5,COD,February,Qtr 1
+ORD-1557,Kartik,Clothing,Saree,1376,292.31,2,COD,April,Qtr 2
+ORD-1558,Arjun,Electronics,Accessories,6391,703.27,3,UPI,March,Qtr 1
+ORD-1559,Arjun,Clothing,Dress,3347,320.15,2,Credit Card,August,Qtr 3
+ORD-1560,Arjun,Clothing,Shirt,936,243.4,5,COD,August,Qtr 3
+ORD-1561,Kartik,Clothing,Dress,1315,293.76,2,Credit Card,September,Qtr 3
+ORD-1562,Yohann,Electronics,Phones,1770,276.74,3,COD,October,Qtr 4
+ORD-1563,Yogesh,Furniture,Furnishings,8995,2016.83,2,Credit Card,July,Qtr 3
+ORD-1564,Ananya,Clothing,Dress,548,81.59,3,COD,February,Qtr 1
+ORD-1565,Vrinda,Furniture,Tables,13406,3599.2,5,COD,April,Qtr 2
+ORD-1566,Yaanvi,Clothing,Shirt,3337,586.44,1,Credit Card,August,Qtr 3
+ORD-1567,Priya,Furniture,Furnishings,10721,797.07,3,COD,April,Qtr 2
+ORD-1568,Yohann,Furniture,Furnishings,12377,1549.14,2,UPI,August,Qtr 3
+ORD-1569,Yaanvi,Clothing,Shirt,2116,331.61,5,COD,October,Qtr 4
+ORD-1570,Yaanvi,Clothing,Saree,3199,736.43,3,Credit Card,September,Qtr 3
+ORD-1571,Arjun,Electronics,Phones,5506,-399.73,4,UPI,December,Qtr 4
+ORD-1572,Ananya,Furniture,Tables,8100,852.25,2,Credit Card,July,Qtr 3
+ORD-1573,Priya,Clothing,Saree,2558,465.86,5,UPI,June,Qtr 2
+ORD-1574,Yaanvi,Clothing,Trousers,2428,564.76,3,COD,January,Qtr 1
+ORD-1575,Kartik,Clothing,Saree,895,144.0,1,COD,January,Qtr 1
+ORD-1576,Rohan,Furniture,Tables,9962,2288.73,5,COD,June,Qtr 2
+ORD-1577,Wale,Clothing,Dress,806,138.84,2,Net Banking,May,Qtr 2
+ORD-1578,Sneha,Electronics,Laptops,11103,1990.81,2,COD,February,Qtr 1
+ORD-1579,Arjun,Electronics,Printers,6170,-298.93,3,COD,July,Qtr 3
+ORD-1580,Kartik,Clothing,Dress,2828,384.31,5,UPI,December,Qtr 4
+ORD-1581,Wale,Clothing,Dress,3327,332.37,5,UPI,October,Qtr 4
+ORD-1582,Arjun,Clothing,Dress,3305,293.11,5,COD,April,Qtr 2
+ORD-1583,Rohan,Furniture,Chairs,12398,3352.01,3,COD,August,Qtr 3
+ORD-1584,Arjun,Clothing,Dress,1548,301.64,2,COD,March,Qtr 1
+ORD-1585,Yogesh,Clothing,Trousers,3180,450.26,5,COD,May,Qtr 2
+ORD-1586,Wale,Furniture,Chairs,4541,339.45,2,Debit Card,August,Qtr 3
+ORD-1587,Yogesh,Electronics,Accessories,2107,238.32,2,COD,August,Qtr 3
+ORD-1588,Sneha,Furniture,Tables,5722,1224.25,2,COD,March,Qtr 1
+ORD-1589,Ananya,Electronics,Phones,2225,531.1,5,COD,March,Qtr 1
+ORD-1590,Priya,Clothing,Saree,3210,736.51,5,Credit Card,November,Qtr 4
+ORD-1591,Vrinda,Furniture,Furnishings,11032,1011.33,1,UPI,February,Qtr 1
+ORD-1592,Yash,Electronics,Phones,4471,-396.34,1,Credit Card,July,Qtr 3
+ORD-1593,Kartik,Electronics,Accessories,2548,-147.61,1,COD,July,Qtr 3
+ORD-1594,Wale,Clothing,Shirt,1871,214.0,1,Debit Card,July,Qtr 3
+ORD-1595,Sneha,Clothing,Trousers,1953,483.03,3,COD,January,Qtr 1
+ORD-1596,Arjun,Electronics,Laptops,1575,210.65,2,COD,November,Qtr 4
+ORD-1597,Sneha,Electronics,Accessories,6186,695.57,3,Credit Card,November,Qtr 4
+ORD-1598,Rohan,Furniture,Chairs,2140,-138.4,4,Credit Card,December,Qtr 4
+ORD-1599,Kartik,Clothing,Saree,1029,131.32,4,COD,April,Qtr 2
+ORD-1600,Kartik,Furniture,Tables,9347,1526.21,5,COD,July,Qtr 3
+ORD-1601,Yash,Clothing,Dress,1017,99.64,5,UPI,March,Qtr 1
+ORD-1602,Yash,Clothing,Shirt,3365,265.43,4,COD,September,Qtr 3
+ORD-1603,Yohann,Clothing,Trousers,3100,-241.58,2,COD,July,Qtr 3
+ORD-1604,Priya,Clothing,Shirt,1973,207.8,3,COD,March,Qtr 1
+ORD-1605,Yash,Electronics,Printers,10607,2131.68,2,COD,February,Qtr 1
+ORD-1606,Arjun,Electronics,Accessories,7429,1131.0,5,UPI,February,Qtr 1
+ORD-1607,Yohann,Electronics,Laptops,6808,1339.25,5,Net Banking,September,Qtr 3
+ORD-1608,Yash,Furniture,Furnishings,8337,1050.17,2,Credit Card,October,Qtr 4
+ORD-1609,Priya,Electronics,Laptops,3676,293.01,3,Credit Card,May,Qtr 2
+ORD-1610,Vrinda,Electronics,Phones,2871,272.32,3,Debit Card,January,Qtr 1
+ORD-1611,Yogesh,Electronics,Printers,10823,693.01,4,UPI,October,Qtr 4
+ORD-1612,Yohann,Clothing,Trousers,2937,-364.9,3,UPI,December,Qtr 4
+ORD-1613,Wale,Clothing,Trousers,1519,-99.75,1,Credit Card,December,Qtr 4
+ORD-1614,Yaanvi,Electronics,Printers,9201,718.25,5,UPI,June,Qtr 2
+ORD-1615,Yogesh,Electronics,Phones,7655,967.24,1,UPI,October,Qtr 4
+ORD-1616,Ananya,Electronics,Printers,8706,1699.55,4,Credit Card,February,Qtr 1
+ORD-1617,Wale,Clothing,Dress,2094,492.66,2,UPI,November,Qtr 4
+ORD-1618,Arjun,Clothing,Shirt,1270,209.63,5,Debit Card,April,Qtr 2
+ORD-1619,Rohan,Clothing,Trousers,731,61.89,2,Debit Card,February,Qtr 1
+ORD-1620,Yash,Furniture,Bookcases,11311,2325.12,1,COD,August,Qtr 3
+ORD-1621,Priya,Electronics,Accessories,6560,1326.58,3,Credit Card,November,Qtr 4
+ORD-1622,Wale,Electronics,Accessories,8648,2097.75,1,Credit Card,December,Qtr 4
+ORD-1623,Ananya,Clothing,Shirt,1009,124.31,4,COD,June,Qtr 2
+ORD-1624,Sneha,Furniture,Chairs,3268,698.67,1,UPI,November,Qtr 4
+ORD-1625,Priya,Clothing,Shirt,2698,645.98,5,COD,August,Qtr 3
+ORD-1626,Ananya,Furniture,Bookcases,6932,966.37,2,COD,June,Qtr 2
+ORD-1627,Arjun,Clothing,Shirt,2358,653.37,3,Credit Card,July,Qtr 3
+ORD-1628,Yash,Electronics,Accessories,5466,684.32,1,COD,March,Qtr 1
+ORD-1629,Yash,Clothing,Saree,1535,123.78,5,Credit Card,June,Qtr 2
+ORD-1630,Arjun,Electronics,Phones,3144,-273.07,4,UPI,December,Qtr 4
+ORD-1631,Arjun,Furniture,Chairs,12291,2005.55,4,Credit Card,September,Qtr 3
+ORD-1632,Yash,Electronics,Phones,2357,176.42,2,COD,August,Qtr 3
+ORD-1633,Ananya,Electronics,Phones,4299,319.25,3,COD,April,Qtr 2
+ORD-1634,Sneha,Electronics,Phones,4157,684.12,2,COD,October,Qtr 4
+ORD-1635,Vrinda,Electronics,Accessories,7196,1976.87,4,Credit Card,October,Qtr 4
+ORD-1636,Rohan,Electronics,Laptops,8002,1258.09,3,UPI,July,Qtr 3
+ORD-1637,Yohann,Electronics,Accessories,5392,661.21,5,COD,May,Qtr 2
+ORD-1638,Yash,Electronics,Accessories,10790,2849.08,4,COD,June,Qtr 2
+ORD-1639,Wale,Electronics,Accessories,10482,1290.71,5,Credit Card,September,Qtr 3
+ORD-1640,Wale,Electronics,Printers,3881,248.59,1,COD,March,Qtr 1
+ORD-1641,Yash,Electronics,Phones,2446,122.4,1,Credit Card,August,Qtr 3
+ORD-1642,Yash,Electronics,Printers,9157,1996.35,1,Credit Card,October,Qtr 4
+ORD-1643,Kartik,Clothing,Saree,1141,284.88,5,COD,September,Qtr 3
+ORD-1644,Yogesh,Clothing,Dress,1043,102.25,1,COD,April,Qtr 2
+ORD-1645,Yogesh,Clothing,Saree,690,52.99,5,COD,September,Qtr 3
+ORD-1646,Sneha,Clothing,Dress,1967,509.15,3,Credit Card,November,Qtr 4
+ORD-1647,Yohann,Clothing,Dress,2707,517.88,3,Debit Card,November,Qtr 4
+ORD-1648,Priya,Electronics,Accessories,9337,1143.34,4,UPI,September,Qtr 3
+ORD-1649,Yogesh,Electronics,Laptops,2978,613.63,5,Debit Card,October,Qtr 4
+ORD-1650,Wale,Clothing,Trousers,2135,500.42,4,Net Banking,June,Qtr 2
+ORD-1651,Yaanvi,Electronics,Accessories,3580,301.8,2,Credit Card,September,Qtr 3
+ORD-1652,Ananya,Electronics,Accessories,10535,2500.05,5,COD,June,Qtr 2
+ORD-1653,Yogesh,Clothing,Trousers,571,35.72,5,COD,April,Qtr 2
+ORD-1654,Wale,Electronics,Phones,6175,591.96,2,Credit Card,May,Qtr 2
+ORD-1655,Arjun,Electronics,Laptops,4596,700.61,2,Credit Card,June,Qtr 2
+ORD-1656,Priya,Clothing,Shirt,578,-34.87,4,Net Banking,December,Qtr 4
+ORD-1657,Yaanvi,Clothing,Shirt,1289,88.2,2,UPI,November,Qtr 4
+ORD-1658,Kartik,Clothing,Shirt,3422,641.77,5,COD,December,Qtr 4
+ORD-1659,Rohan,Furniture,Bookcases,10531,1675.69,2,Credit Card,August,Qtr 3
+ORD-1660,Priya,Clothing,Shirt,2781,752.96,1,COD,March,Qtr 1
+ORD-1661,Yogesh,Clothing,Shirt,2420,372.13,1,UPI,September,Qtr 3
+ORD-1662,Rohan,Clothing,Dress,705,62.8,1,Debit Card,January,Qtr 1
+ORD-1663,Ananya,Clothing,Trousers,2618,546.81,1,UPI,April,Qtr 2
+ORD-1664,Sneha,Electronics,Printers,2842,-242.1,2,COD,December,Qtr 4
+ORD-1665,Arjun,Electronics,Laptops,2313,641.54,4,UPI,January,Qtr 1
+ORD-1666,Rohan,Clothing,Trousers,547,-62.65,5,Credit Card,July,Qtr 3
+ORD-1667,Arjun,Electronics,Accessories,5010,1152.09,1,COD,February,Qtr 1
+ORD-1668,Wale,Furniture,Bookcases,14992,-897.99,1,UPI,December,Qtr 4
+ORD-1669,Arjun,Electronics,Accessories,10390,-493.29,4,Debit Card,December,Qtr 4
+ORD-1670,Yogesh,Clothing,Saree,1766,319.23,5,UPI,March,Qtr 1
+ORD-1671,Arjun,Clothing,Dress,1862,499.64,4,UPI,August,Qtr 3
+ORD-1672,Ananya,Furniture,Furnishings,14351,3129.99,3,COD,January,Qtr 1
+ORD-1673,Sneha,Electronics,Laptops,3440,545.24,1,COD,February,Qtr 1
+ORD-1674,Rohan,Electronics,Printers,2181,346.33,3,COD,March,Qtr 1
+ORD-1675,Ananya,Clothing,Shirt,2980,-279.22,5,COD,May,Qtr 2
+ORD-1676,Arjun,Clothing,Saree,3384,311.44,4,Debit Card,January,Qtr 1
+ORD-1677,Ananya,Clothing,Saree,1498,276.4,5,Credit Card,June,Qtr 2
+ORD-1678,Vrinda,Furniture,Chairs,14433,3093.21,3,Credit Card,August,Qtr 3
+ORD-1679,Vrinda,Clothing,Dress,2876,470.92,1,Credit Card,April,Qtr 2
+ORD-1680,Yogesh,Clothing,Trousers,3496,777.75,3,Debit Card,March,Qtr 1
+ORD-1681,Vrinda,Furniture,Bookcases,3462,479.45,4,COD,February,Qtr 1
+ORD-1682,Kartik,Clothing,Saree,2495,226.51,1,Credit Card,June,Qtr 2
+ORD-1683,Yash,Electronics,Accessories,11471,1524.34,4,Credit Card,February,Qtr 1
+ORD-1684,Ananya,Electronics,Laptops,11103,1234.43,2,Credit Card,September,Qtr 3
+ORD-1685,Priya,Clothing,Saree,2526,-359.93,4,Debit Card,May,Qtr 2
+ORD-1686,Ananya,Furniture,Tables,14478,1493.39,3,COD,August,Qtr 3
+ORD-1687,Yaanvi,Furniture,Bookcases,11379,1877.69,5,COD,October,Qtr 4
+ORD-1688,Ananya,Electronics,Accessories,11473,1657.36,2,Debit Card,April,Qtr 2
+ORD-1689,Yaanvi,Clothing,Dress,578,146.72,5,Debit Card,July,Qtr 3
+ORD-1690,Vrinda,Clothing,Dress,3484,517.31,1,COD,February,Qtr 1
+ORD-1691,Kartik,Electronics,Phones,4433,541.05,2,Credit Card,March,Qtr 1
+ORD-1692,Yohann,Electronics,Accessories,3871,901.41,1,Credit Card,August,Qtr 3
+ORD-1693,Vrinda,Clothing,Shirt,2914,673.81,4,Debit Card,March,Qtr 1
+ORD-1694,Rohan,Furniture,Tables,8738,2196.4,4,COD,February,Qtr 1
+ORD-1695,Kartik,Clothing,Saree,917,191.45,4,Debit Card,February,Qtr 1
+ORD-1696,Priya,Furniture,Bookcases,13646,1058.78,3,COD,January,Qtr 1
+ORD-1697,Yohann,Clothing,Shirt,965,195.25,5,COD,October,Qtr 4
+ORD-1698,Wale,Electronics,Laptops,11336,2405.04,1,Debit Card,November,Qtr 4
+ORD-1699,Yohann,Electronics,Laptops,5329,642.91,3,Credit Card,November,Qtr 4
+ORD-1700,Wale,Furniture,Bookcases,5158,-517.76,4,Credit Card,July,Qtr 3
+ORD-1701,Sneha,Clothing,Dress,1812,499.54,3,Credit Card,January,Qtr 1
+ORD-1702,Yash,Furniture,Chairs,13891,1054.27,4,COD,January,Qtr 1
+ORD-1703,Wale,Clothing,Trousers,3251,336.83,2,COD,November,Qtr 4
+ORD-1704,Ananya,Electronics,Accessories,11643,3247.92,5,Net Banking,February,Qtr 1
+ORD-1705,Arjun,Furniture,Bookcases,9265,820.1,5,Net Banking,September,Qtr 3
+ORD-1706,Ananya,Electronics,Phones,5935,873.06,3,Credit Card,June,Qtr 2
+ORD-1707,Yogesh,Electronics,Phones,10630,1651.33,1,Debit Card,October,Qtr 4
+ORD-1708,Priya,Clothing,Trousers,1398,341.81,1,Net Banking,February,Qtr 1
+ORD-1709,Ananya,Clothing,Dress,3156,783.56,1,COD,May,Qtr 2
+ORD-1710,Wale,Electronics,Accessories,11137,2434.08,5,Debit Card,February,Qtr 1
+ORD-1711,Vrinda,Furniture,Chairs,13523,1429.38,4,Net Banking,January,Qtr 1
+ORD-1712,Arjun,Clothing,Shirt,627,163.71,1,Credit Card,October,Qtr 4
+ORD-1713,Kartik,Clothing,Trousers,2460,168.92,1,COD,August,Qtr 3
+ORD-1714,Priya,Electronics,Printers,8301,2068.51,1,Credit Card,October,Qtr 4
+ORD-1715,Yash,Clothing,Trousers,2041,366.07,2,Credit Card,March,Qtr 1
+ORD-1716,Vrinda,Clothing,Trousers,2810,313.11,2,Credit Card,April,Qtr 2
+ORD-1717,Arjun,Electronics,Printers,4699,1212.11,3,COD,October,Qtr 4
+ORD-1718,Vrinda,Clothing,Dress,1381,245.51,3,COD,January,Qtr 1
+ORD-1719,Wale,Clothing,Shirt,2573,420.38,4,COD,November,Qtr 4
+ORD-1720,Yogesh,Clothing,Trousers,672,-89.29,2,Debit Card,July,Qtr 3
+ORD-1721,Yohann,Furniture,Chairs,11697,3031.5,4,Credit Card,September,Qtr 3
+ORD-1722,Wale,Clothing,Dress,578,-31.96,1,Debit Card,May,Qtr 2
+ORD-1723,Arjun,Clothing,Trousers,985,163.08,4,COD,January,Qtr 1
+ORD-1724,Arjun,Clothing,Shirt,2270,-279.21,4,Debit Card,May,Qtr 2
+ORD-1725,Kartik,Clothing,Dress,1504,249.32,5,UPI,February,Qtr 1
+ORD-1726,Vrinda,Electronics,Laptops,4629,324.55,5,Credit Card,June,Qtr 2
+ORD-1727,Priya,Clothing,Saree,790,86.91,5,COD,October,Qtr 4
+ORD-1728,Priya,Furniture,Bookcases,5140,423.93,1,COD,November,Qtr 4
+ORD-1729,Wale,Electronics,Printers,4725,-518.14,5,Credit Card,July,Qtr 3
+ORD-1730,Yohann,Electronics,Printers,4614,303.96,2,Debit Card,October,Qtr 4
+ORD-1731,Wale,Clothing,Trousers,3030,-305.16,2,UPI,July,Qtr 3
+ORD-1732,Kartik,Clothing,Saree,455,84.13,4,COD,March,Qtr 1
+ORD-1733,Vrinda,Electronics,Accessories,2965,271.11,2,Debit Card,November,Qtr 4
+ORD-1734,Ananya,Clothing,Shirt,2894,-346.65,4,Credit Card,July,Qtr 3
+ORD-1735,Rohan,Clothing,Saree,3104,320.54,1,COD,August,Qtr 3
+ORD-1736,Rohan,Furniture,Furnishings,6212,1125.58,4,Credit Card,September,Qtr 3
+ORD-1737,Yaanvi,Electronics,Accessories,1651,113.29,5,UPI,February,Qtr 1
+ORD-1738,Yaanvi,Furniture,Tables,4120,1049.59,1,COD,February,Qtr 1
+ORD-1739,Yash,Clothing,Dress,2712,331.49,3,Net Banking,August,Qtr 3
+ORD-1740,Yohann,Electronics,Laptops,10869,1398.74,4,COD,October,Qtr 4
+ORD-1741,Yohann,Furniture,Tables,13049,2313.83,1,Debit Card,February,Qtr 1
+ORD-1742,Yohann,Clothing,Dress,966,233.36,1,Debit Card,November,Qtr 4
+ORD-1743,Priya,Furniture,Furnishings,8965,1262.83,5,Net Banking,April,Qtr 2
+ORD-1744,Kartik,Clothing,Trousers,886,117.05,5,COD,August,Qtr 3
+ORD-1745,Sneha,Electronics,Laptops,11049,1294.28,2,UPI,October,Qtr 4
+ORD-1746,Yohann,Electronics,Printers,4006,765.25,4,COD,April,Qtr 2
+ORD-1747,Arjun,Furniture,Bookcases,5661,611.39,5,Debit Card,January,Qtr 1
+ORD-1748,Yash,Clothing,Trousers,3193,877.36,2,Credit Card,August,Qtr 3
+ORD-1749,Arjun,Clothing,Shirt,1699,369.48,4,COD,February,Qtr 1
+ORD-1750,Yash,Electronics,Laptops,3032,511.21,2,UPI,March,Qtr 1
+ORD-1751,Arjun,Electronics,Laptops,6865,1286.38,3,COD,April,Qtr 2
+ORD-1752,Yohann,Clothing,Shirt,3012,211.66,4,Credit Card,June,Qtr 2
+ORD-1753,Yohann,Electronics,Phones,2034,470.82,5,UPI,October,Qtr 4
+ORD-1754,Vrinda,Clothing,Shirt,3287,407.84,5,COD,October,Qtr 4
+ORD-1755,Yohann,Electronics,Laptops,5223,492.84,2,Net Banking,July,Qtr 3
+ORD-1756,Vrinda,Electronics,Accessories,5340,960.22,3,UPI,March,Qtr 1
+ORD-1757,Yaanvi,Electronics,Printers,4703,865.44,1,UPI,June,Qtr 2
+ORD-1758,Yogesh,Clothing,Dress,2754,446.31,5,UPI,June,Qtr 2
+ORD-1759,Rohan,Clothing,Dress,3083,522.39,3,Credit Card,October,Qtr 4
+ORD-1760,Yash,Clothing,Dress,2700,543.81,4,COD,October,Qtr 4
+ORD-1761,Arjun,Clothing,Saree,2663,370.69,4,Debit Card,February,Qtr 1
+ORD-1762,Wale,Clothing,Trousers,2265,592.8,4,UPI,December,Qtr 4
+ORD-1763,Yohann,Electronics,Accessories,6867,627.01,5,COD,October,Qtr 4
+ORD-1764,Sneha,Clothing,Shirt,1224,189.8,4,Credit Card,February,Qtr 1
+ORD-1765,Ananya,Furniture,Tables,14057,2210.3,2,COD,April,Qtr 2
+ORD-1766,Priya,Electronics,Printers,7901,871.91,1,COD,July,Qtr 3
+ORD-1767,Wale,Clothing,Shirt,1965,264.02,5,Debit Card,February,Qtr 1
+ORD-1768,Yogesh,Clothing,Dress,1584,298.08,2,Net Banking,October,Qtr 4
+ORD-1769,Yogesh,Electronics,Laptops,10645,2387.55,3,Debit Card,May,Qtr 2
+ORD-1770,Ananya,Clothing,Dress,456,80.2,2,Credit Card,August,Qtr 3
+ORD-1771,Yohann,Clothing,Trousers,3145,529.59,3,COD,October,Qtr 4
+ORD-1772,Yogesh,Clothing,Shirt,1681,88.13,4,UPI,May,Qtr 2
+ORD-1773,Rohan,Furniture,Furnishings,12783,-781.23,1,COD,December,Qtr 4
+ORD-1774,Yogesh,Electronics,Printers,9946,1928.13,4,COD,October,Qtr 4
+ORD-1775,Sneha,Clothing,Trousers,3404,201.78,2,Credit Card,December,Qtr 4
+ORD-1776,Priya,Electronics,Printers,6258,1683.29,5,Credit Card,August,Qtr 3
+ORD-1777,Yaanvi,Clothing,Shirt,2747,419.03,1,Credit Card,October,Qtr 4
+ORD-1778,Ananya,Furniture,Furnishings,13189,-702.74,5,COD,December,Qtr 4
+ORD-1779,Kartik,Furniture,Tables,11257,1672.66,3,UPI,October,Qtr 4
+ORD-1780,Rohan,Electronics,Phones,8020,835.57,3,UPI,May,Qtr 2
+ORD-1781,Arjun,Clothing,Trousers,3310,654.85,4,COD,June,Qtr 2
+ORD-1782,Yogesh,Electronics,Printers,2072,508.92,5,Credit Card,April,Qtr 2
+ORD-1783,Priya,Electronics,Accessories,3497,491.55,1,COD,February,Qtr 1
+ORD-1784,Arjun,Electronics,Printers,9295,1105.95,4,COD,October,Qtr 4
+ORD-1785,Vrinda,Electronics,Phones,6451,1188.02,3,UPI,November,Qtr 4
+ORD-1786,Wale,Furniture,Chairs,10624,-724.61,4,COD,July,Qtr 3
+ORD-1787,Rohan,Furniture,Furnishings,6022,1561.41,3,UPI,March,Qtr 1
+ORD-1788,Sneha,Electronics,Laptops,4991,1118.45,4,Credit Card,April,Qtr 2
+ORD-1789,Priya,Electronics,Accessories,10279,1813.58,1,Debit Card,December,Qtr 4
+ORD-1790,Wale,Furniture,Chairs,14494,3467.28,4,COD,May,Qtr 2
+ORD-1791,Yohann,Clothing,Saree,1267,271.82,4,Credit Card,February,Qtr 1
+ORD-1792,Arjun,Furniture,Furnishings,9674,2575.05,4,COD,May,Qtr 2
+ORD-1793,Priya,Furniture,Tables,8537,927.05,2,COD,May,Qtr 2
+ORD-1794,Arjun,Electronics,Printers,9392,640.71,5,COD,January,Qtr 1
+ORD-1795,Yash,Clothing,Trousers,1998,233.28,3,COD,August,Qtr 3
+ORD-1796,Vrinda,Electronics,Printers,5375,858.42,1,UPI,November,Qtr 4
+ORD-1797,Priya,Clothing,Trousers,1956,523.1,3,Debit Card,October,Qtr 4
+ORD-1798,Yash,Clothing,Trousers,555,61.29,1,Credit Card,June,Qtr 2
+ORD-1799,Yohann,Electronics,Phones,2910,694.72,1,COD,January,Qtr 1
+ORD-1800,Wale,Clothing,Dress,1859,-170.93,4,COD,July,Qtr 3
+ORD-1801,Vrinda,Electronics,Accessories,2348,-269.47,1,COD,July,Qtr 3
+ORD-1802,Yash,Electronics,Accessories,5878,642.2,1,Net Banking,September,Qtr 3
+ORD-1803,Yaanvi,Clothing,Dress,1796,484.64,2,UPI,July,Qtr 3
+ORD-1804,Wale,Furniture,Furnishings,9837,1619.33,5,COD,September,Qtr 3
+ORD-1805,Rohan,Electronics,Printers,11653,-941.65,2,COD,May,Qtr 2
+ORD-1806,Vrinda,Electronics,Phones,11639,-1203.63,1,COD,December,Qtr 4
+ORD-1807,Yaanvi,Clothing,Dress,3088,322.01,5,UPI,January,Qtr 1
+ORD-1808,Arjun,Clothing,Dress,2303,627.34,2,Credit Card,June,Qtr 2
+ORD-1809,Vrinda,Electronics,Accessories,11299,2080.31,4,UPI,February,Qtr 1
+ORD-1810,Arjun,Electronics,Phones,8154,1497.72,3,COD,June,Qtr 2
+ORD-1811,Yohann,Electronics,Laptops,7017,912.57,5,Net Banking,February,Qtr 1
+ORD-1812,Arjun,Furniture,Furnishings,8378,752.31,2,COD,December,Qtr 4
+ORD-1813,Yash,Clothing,Saree,2448,543.16,1,COD,August,Qtr 3
+ORD-1814,Yogesh,Clothing,Trousers,1307,219.89,4,COD,October,Qtr 4
+ORD-1815,Kartik,Electronics,Phones,1817,91.98,4,Credit Card,January,Qtr 1
+ORD-1816,Priya,Furniture,Chairs,5557,1538.69,2,COD,February,Qtr 1
+ORD-1817,Wale,Clothing,Trousers,1839,183.98,5,Debit Card,February,Qtr 1
+ORD-1818,Arjun,Clothing,Trousers,1799,453.11,5,COD,January,Qtr 1
+ORD-1819,Wale,Clothing,Dress,1391,294.79,5,COD,March,Qtr 1
+ORD-1820,Wale,Clothing,Shirt,1906,446.06,3,COD,April,Qtr 2
+ORD-1821,Yohann,Clothing,Dress,872,199.58,4,UPI,August,Qtr 3
+ORD-1822,Wale,Furniture,Tables,11959,1237.19,4,COD,January,Qtr 1
+ORD-1823,Yash,Electronics,Accessories,4081,489.48,4,COD,February,Qtr 1
+ORD-1824,Arjun,Furniture,Chairs,13878,3845.52,5,Debit Card,August,Qtr 3
+ORD-1825,Rohan,Clothing,Saree,2487,371.01,1,Credit Card,October,Qtr 4
+ORD-1826,Yaanvi,Electronics,Phones,11609,2954.14,3,Credit Card,October,Qtr 4
+ORD-1827,Yohann,Electronics,Accessories,6434,760.39,3,UPI,August,Qtr 3
+ORD-1828,Ananya,Furniture,Chairs,8539,688.72,2,Credit Card,February,Qtr 1
+ORD-1829,Priya,Furniture,Chairs,6095,1381.04,2,COD,November,Qtr 4
+ORD-1830,Rohan,Clothing,Dress,1475,-99.86,1,COD,May,Qtr 2
+ORD-1831,Yohann,Furniture,Tables,4735,1324.76,2,COD,October,Qtr 4
+ORD-1832,Yohann,Clothing,Dress,2961,507.76,4,COD,February,Qtr 1
+ORD-1833,Arjun,Electronics,Phones,4207,816.13,5,Debit Card,May,Qtr 2
+ORD-1834,Priya,Clothing,Shirt,2997,416.4,5,COD,October,Qtr 4
+ORD-1835,Kartik,Furniture,Bookcases,9743,1103.62,1,Debit Card,March,Qtr 1
+ORD-1836,Yohann,Electronics,Phones,3919,785.64,5,Credit Card,August,Qtr 3
+ORD-1837,Yaanvi,Furniture,Chairs,6042,-583.45,2,UPI,July,Qtr 3
+ORD-1838,Ananya,Electronics,Laptops,3486,344.81,4,Net Banking,November,Qtr 4
+ORD-1839,Kartik,Clothing,Trousers,2705,-389.94,1,UPI,May,Qtr 2
+ORD-1840,Vrinda,Clothing,Dress,786,125.69,1,Credit Card,June,Qtr 2
+ORD-1841,Kartik,Clothing,Saree,3497,428.75,4,UPI,June,Qtr 2
+ORD-1842,Yaanvi,Clothing,Shirt,2494,635.7,4,COD,March,Qtr 1
+ORD-1843,Yogesh,Clothing,Shirt,2121,385.46,3,Credit Card,June,Qtr 2
+ORD-1844,Rohan,Clothing,Saree,3279,415.77,5,Debit Card,January,Qtr 1
+ORD-1845,Rohan,Clothing,Trousers,2478,484.03,2,Debit Card,April,Qtr 2
+ORD-1846,Kartik,Electronics,Printers,6097,566.51,5,COD,October,Qtr 4
+ORD-1847,Priya,Clothing,Trousers,1247,213.05,1,Credit Card,July,Qtr 3
+ORD-1848,Ananya,Clothing,Saree,615,167.47,3,COD,September,Qtr 3
+ORD-1849,Arjun,Clothing,Saree,3001,292.16,5,Credit Card,August,Qtr 3
+ORD-1850,Yogesh,Clothing,Shirt,2308,444.39,1,UPI,September,Qtr 3
+ORD-1851,Wale,Clothing,Trousers,713,137.04,5,COD,March,Qtr 1
+ORD-1852,Yogesh,Electronics,Accessories,6131,-457.11,5,UPI,December,Qtr 4
+ORD-1853,Ananya,Furniture,Furnishings,7335,763.85,3,Net Banking,March,Qtr 1
+ORD-1854,Rohan,Electronics,Accessories,3059,505.17,3,Credit Card,October,Qtr 4
+ORD-1855,Yohann,Furniture,Furnishings,6065,1131.41,1,UPI,June,Qtr 2
+ORD-1856,Yaanvi,Electronics,Phones,3941,199.16,5,Debit Card,March,Qtr 1
+ORD-1857,Priya,Furniture,Bookcases,14546,-896.52,3,COD,July,Qtr 3
+ORD-1858,Priya,Furniture,Tables,12737,2640.56,4,Debit Card,April,Qtr 2
+ORD-1859,Rohan,Clothing,Saree,2440,444.46,4,COD,March,Qtr 1
+ORD-1860,Yohann,Electronics,Phones,2632,250.97,3,UPI,June,Qtr 2
+ORD-1861,Yash,Clothing,Dress,2881,226.62,2,COD,May,Qtr 2
+ORD-1862,Priya,Clothing,Dress,1221,109.41,5,UPI,July,Qtr 3
+ORD-1863,Vrinda,Electronics,Phones,7375,-851.23,2,Debit Card,May,Qtr 2
+ORD-1864,Yash,Clothing,Trousers,2658,656.88,3,COD,February,Qtr 1
+ORD-1865,Priya,Furniture,Furnishings,13652,-1958.82,4,Credit Card,July,Qtr 3
+ORD-1866,Vrinda,Clothing,Saree,499,125.45,4,COD,January,Qtr 1
+ORD-1867,Ananya,Clothing,Saree,2604,537.8,2,Credit Card,June,Qtr 2
+ORD-1868,Arjun,Clothing,Trousers,1693,-100.12,3,COD,July,Qtr 3
+ORD-1869,Yash,Clothing,Trousers,3445,233.1,1,Debit Card,October,Qtr 4
+ORD-1870,Yaanvi,Clothing,Saree,2683,523.02,4,Net Banking,August,Qtr 3
+ORD-1871,Vrinda,Furniture,Bookcases,4251,976.87,2,Net Banking,March,Qtr 1
+ORD-1872,Kartik,Clothing,Saree,829,139.56,3,COD,February,Qtr 1
+ORD-1873,Priya,Electronics,Phones,2968,-356.23,1,Net Banking,July,Qtr 3
+ORD-1874,Yaanvi,Electronics,Laptops,2853,622.9,2,Credit Card,October,Qtr 4
+ORD-1875,Priya,Clothing,Saree,796,46.1,3,UPI,June,Qtr 2
+ORD-1876,Sneha,Electronics,Laptops,3532,757.4,2,Credit Card,December,Qtr 4
+ORD-1877,Rohan,Furniture,Tables,14565,1656.67,4,COD,April,Qtr 2
+ORD-1878,Arjun,Clothing,Shirt,1224,331.2,2,UPI,August,Qtr 3
+ORD-1879,Yaanvi,Clothing,Dress,3174,848.93,3,Debit Card,November,Qtr 4
+ORD-1880,Yogesh,Electronics,Phones,9367,2015.36,5,Credit Card,October,Qtr 4
+ORD-1881,Priya,Clothing,Shirt,923,120.82,2,COD,July,Qtr 3
+ORD-1882,Wale,Clothing,Saree,2042,-127.56,1,Credit Card,December,Qtr 4
+ORD-1883,Vrinda,Electronics,Laptops,2252,405.69,1,UPI,October,Qtr 4
+ORD-1884,Kartik,Furniture,Tables,3946,850.12,2,Debit Card,August,Qtr 3
+ORD-1885,Kartik,Electronics,Printers,5506,1459.23,2,Credit Card,June,Qtr 2
+ORD-1886,Priya,Electronics,Phones,2100,405.89,2,COD,August,Qtr 3
+ORD-1887,Ananya,Clothing,Saree,3368,886.17,2,COD,April,Qtr 2
+ORD-1888,Yohann,Electronics,Accessories,10395,1920.33,3,COD,October,Qtr 4
+ORD-1889,Arjun,Clothing,Shirt,3098,-455.45,3,COD,May,Qtr 2
+ORD-1890,Ananya,Clothing,Saree,1596,229.16,5,Debit Card,February,Qtr 1
+ORD-1891,Priya,Clothing,Trousers,1330,260.83,5,UPI,October,Qtr 4
+ORD-1892,Sneha,Clothing,Shirt,1615,341.66,1,COD,October,Qtr 4
+ORD-1893,Wale,Clothing,Dress,1964,170.32,2,COD,March,Qtr 1
+ORD-1894,Yaanvi,Electronics,Printers,2916,564.13,2,COD,March,Qtr 1
+ORD-1895,Kartik,Clothing,Saree,755,51.76,4,Credit Card,November,Qtr 4
+ORD-1896,Yash,Electronics,Phones,5826,1351.64,4,COD,March,Qtr 1
+ORD-1897,Yaanvi,Clothing,Trousers,666,61.32,5,Net Banking,September,Qtr 3
+ORD-1898,Vrinda,Electronics,Accessories,7863,-537.48,5,Credit Card,July,Qtr 3
+ORD-1899,Priya,Electronics,Phones,11104,-1315.91,5,Net Banking,May,Qtr 2
+ORD-1900,Yogesh,Furniture,Furnishings,2453,305.13,2,UPI,September,Qtr 3
+ORD-1901,Yohann,Furniture,Bookcases,6920,-332.29,1,COD,December,Qtr 4
+ORD-1902,Wale,Electronics,Printers,4368,1157.16,4,COD,March,Qtr 1
+ORD-1903,Rohan,Clothing,Dress,611,107.31,2,UPI,August,Qtr 3
+ORD-1904,Kartik,Clothing,Dress,1341,-65.3,1,COD,July,Qtr 3
+ORD-1905,Yogesh,Clothing,Dress,3439,795.96,3,UPI,December,Qtr 4
+ORD-1906,Kartik,Electronics,Accessories,6924,959.49,2,COD,August,Qtr 3
+ORD-1907,Yohann,Clothing,Saree,1964,441.0,2,COD,October,Qtr 4
+ORD-1908,Yaanvi,Clothing,Saree,3450,926.55,1,COD,January,Qtr 1
+ORD-1909,Yaanvi,Electronics,Laptops,4013,-527.76,5,Credit Card,July,Qtr 3
+ORD-1910,Wale,Clothing,Saree,3178,822.85,3,Net Banking,January,Qtr 1
+ORD-1911,Yash,Electronics,Accessories,5939,1593.64,2,COD,October,Qtr 4
+ORD-1912,Vrinda,Clothing,Trousers,1417,165.48,3,COD,July,Qtr 3
+ORD-1913,Yash,Clothing,Saree,1706,383.32,1,Net Banking,January,Qtr 1
+ORD-1914,Wale,Clothing,Dress,2389,276.65,4,UPI,March,Qtr 1
+ORD-1915,Yogesh,Electronics,Printers,4753,438.32,1,COD,October,Qtr 4
+ORD-1916,Kartik,Furniture,Chairs,13007,1020.01,4,COD,January,Qtr 1
+ORD-1917,Ananya,Clothing,Shirt,737,58.42,4,Net Banking,November,Qtr 4
+ORD-1918,Rohan,Furniture,Bookcases,13730,1324.65,2,UPI,April,Qtr 2
+ORD-1919,Vrinda,Clothing,Shirt,1389,165.31,4,Net Banking,July,Qtr 3
+ORD-1920,Yogesh,Clothing,Saree,483,35.52,2,COD,November,Qtr 4
+ORD-1921,Sneha,Clothing,Trousers,1242,196.74,3,COD,October,Qtr 4
+ORD-1922,Yaanvi,Furniture,Furnishings,5981,969.5,2,Debit Card,February,Qtr 1
+ORD-1923,Arjun,Electronics,Phones,10626,685.04,3,COD,December,Qtr 4
+ORD-1924,Yohann,Clothing,Saree,771,91.96,5,UPI,June,Qtr 2
+ORD-1925,Arjun,Clothing,Saree,770,138.83,1,Debit Card,August,Qtr 3
+ORD-1926,Yohann,Electronics,Accessories,8762,1469.79,1,COD,January,Qtr 1
+ORD-1927,Arjun,Electronics,Phones,2922,544.97,2,Debit Card,February,Qtr 1
+ORD-1928,Arjun,Clothing,Shirt,1767,143.47,3,COD,January,Qtr 1
+ORD-1929,Wale,Clothing,Saree,1157,95.44,3,COD,February,Qtr 1
+ORD-1930,Arjun,Furniture,Furnishings,8854,1262.41,4,COD,August,Qtr 3
+ORD-1931,Yash,Furniture,Tables,12618,1609.54,4,COD,October,Qtr 4
+ORD-1932,Wale,Clothing,Dress,2547,-144.86,4,UPI,May,Qtr 2
+ORD-1933,Yaanvi,Clothing,Shirt,2358,316.79,4,COD,February,Qtr 1
+ORD-1934,Wale,Clothing,Trousers,2401,316.05,2,COD,April,Qtr 2
+ORD-1935,Yohann,Electronics,Accessories,7535,652.58,2,Debit Card,December,Qtr 4
+ORD-1936,Priya,Clothing,Shirt,802,176.69,2,Debit Card,February,Qtr 1
+ORD-1937,Kartik,Electronics,Accessories,4610,414.97,4,COD,September,Qtr 3
+ORD-1938,Yash,Clothing,Dress,2190,571.7,3,COD,March,Qtr 1
+ORD-1939,Kartik,Electronics,Accessories,7488,2053.17,3,COD,March,Qtr 1
+ORD-1940,Wale,Furniture,Tables,13484,3592.17,3,COD,November,Qtr 4
+ORD-1941,Vrinda,Electronics,Phones,1735,347.22,2,COD,October,Qtr 4
+ORD-1942,Wale,Clothing,Dress,2602,167.47,5,Credit Card,December,Qtr 4
+ORD-1943,Rohan,Clothing,Dress,536,44.4,2,Debit Card,September,Qtr 3
+ORD-1944,Wale,Clothing,Shirt,1704,200.34,2,UPI,April,Qtr 2
+ORD-1945,Wale,Electronics,Accessories,4222,966.5,3,UPI,November,Qtr 4
+ORD-1946,Arjun,Clothing,Trousers,3195,783.35,2,Credit Card,August,Qtr 3
+ORD-1947,Ananya,Furniture,Tables,9280,2008.31,4,UPI,January,Qtr 1
+ORD-1948,Wale,Electronics,Printers,1564,105.8,3,COD,August,Qtr 3
+ORD-1949,Vrinda,Clothing,Dress,1306,205.48,3,COD,September,Qtr 3
+ORD-1950,Wale,Clothing,Saree,2665,191.11,5,Net Banking,April,Qtr 2
+ORD-1951,Yash,Clothing,Saree,3292,-423.46,3,COD,December,Qtr 4
+ORD-1952,Sneha,Furniture,Chairs,5641,1202.88,1,COD,August,Qtr 3
+ORD-1953,Sneha,Clothing,Dress,3021,-273.11,2,COD,July,Qtr 3
+ORD-1954,Ananya,Furniture,Chairs,14944,2608.73,4,COD,August,Qtr 3
+ORD-1955,Sneha,Electronics,Accessories,3236,305.22,1,Credit Card,August,Qtr 3
+ORD-1956,Priya,Electronics,Accessories,2554,684.44,5,COD,May,Qtr 2
+ORD-1957,Ananya,Clothing,Saree,2494,388.34,3,Credit Card,March,Qtr 1
+ORD-1958,Priya,Electronics,Phones,10289,723.04,2,Net Banking,May,Qtr 2
+ORD-1959,Arjun,Electronics,Accessories,6981,1056.13,4,COD,November,Qtr 4
+ORD-1960,Yash,Electronics,Accessories,3923,493.07,3,COD,January,Qtr 1
+ORD-1961,Yash,Clothing,Saree,902,127.27,4,COD,October,Qtr 4
+ORD-1962,Ananya,Clothing,Trousers,1374,-125.28,2,Debit Card,July,Qtr 3
+ORD-1963,Ananya,Clothing,Trousers,1815,-108.71,2,Credit Card,May,Qtr 2
+ORD-1964,Arjun,Electronics,Accessories,2081,-109.51,4,Debit Card,May,Qtr 2
+ORD-1965,Wale,Clothing,Dress,3235,185.92,3,UPI,August,Qtr 3
+ORD-1966,Wale,Electronics,Accessories,11350,2007.68,1,Net Banking,August,Qtr 3
+ORD-1967,Wale,Furniture,Chairs,12940,1854.49,1,COD,July,Qtr 3
+ORD-1968,Vrinda,Clothing,Dress,2290,541.9,2,UPI,November,Qtr 4
+ORD-1969,Sneha,Clothing,Dress,2126,428.02,4,COD,January,Qtr 1
+ORD-1970,Ananya,Furniture,Tables,2356,454.85,4,UPI,February,Qtr 1
+ORD-1971,Yohann,Electronics,Laptops,11920,2302.85,2,COD,March,Qtr 1
+ORD-1972,Yogesh,Clothing,Trousers,1718,150.57,3,COD,April,Qtr 2
+ORD-1973,Priya,Clothing,Saree,3236,259.03,1,COD,January,Qtr 1
+ORD-1974,Kartik,Clothing,Saree,2541,482.2,5,COD,January,Qtr 1
+ORD-1975,Arjun,Furniture,Furnishings,3763,672.49,4,COD,March,Qtr 1
+ORD-1976,Priya,Clothing,Shirt,1819,103.69,1,UPI,August,Qtr 3
+ORD-1977,Yogesh,Clothing,Saree,2522,-231.74,1,COD,July,Qtr 3
+ORD-1978,Vrinda,Furniture,Chairs,7755,1877.53,4,COD,May,Qtr 2
+ORD-1979,Sneha,Furniture,Tables,9705,653.58,5,COD,August,Qtr 3
+ORD-1980,Sneha,Clothing,Trousers,2210,-224.28,2,Credit Card,July,Qtr 3
+ORD-1981,Ananya,Clothing,Trousers,3074,323.87,1,Credit Card,January,Qtr 1
+ORD-1982,Yaanvi,Electronics,Phones,2575,281.97,1,COD,April,Qtr 2
+ORD-1983,Priya,Clothing,Shirt,3369,354.54,5,COD,April,Qtr 2
+ORD-1984,Wale,Clothing,Saree,2099,500.22,4,Credit Card,May,Qtr 2
+ORD-1985,Priya,Electronics,Phones,11900,-577.94,4,Credit Card,July,Qtr 3
+ORD-1986,Arjun,Electronics,Laptops,8733,1922.13,3,COD,August,Qtr 3
+ORD-1987,Vrinda,Clothing,Trousers,2324,218.33,5,Credit Card,November,Qtr 4
+ORD-1988,Yohann,Electronics,Laptops,11321,1582.39,1,COD,March,Qtr 1
+ORD-1989,Sneha,Furniture,Furnishings,5412,1012.97,1,COD,January,Qtr 1
+ORD-1990,Yogesh,Clothing,Shirt,2810,669.56,2,Credit Card,October,Qtr 4
+ORD-1991,Priya,Furniture,Furnishings,12488,1336.18,2,COD,November,Qtr 4
+ORD-1992,Ananya,Clothing,Trousers,3305,317.95,1,Credit Card,August,Qtr 3
+ORD-1993,Wale,Clothing,Trousers,1739,476.0,2,Credit Card,March,Qtr 1
+ORD-1994,Kartik,Clothing,Trousers,1715,140.34,3,UPI,February,Qtr 1
+ORD-1995,Rohan,Electronics,Accessories,11867,2257.44,1,Net Banking,August,Qtr 3
+ORD-1996,Wale,Clothing,Trousers,2862,602.2,3,Credit Card,March,Qtr 1
+ORD-1997,Yash,Clothing,Shirt,1845,-91.82,2,Credit Card,December,Qtr 4
+ORD-1998,Yogesh,Furniture,Furnishings,11258,1213.32,4,Credit Card,August,Qtr 3
+ORD-1999,Vrinda,Clothing,Trousers,2914,378.08,1,UPI,February,Qtr 1
+ORD-2000,Yash,Electronics,Phones,11356,908.17,4,COD,December,Qtr 4
+ORD-2001,Arjun,Furniture,Bookcases,3231,632.53,5,COD,July,Qtr 3
+ORD-2002,Vrinda,Electronics,Laptops,2446,132.23,3,COD,January,Qtr 1
+ORD-2003,Priya,Electronics,Printers,2808,491.4,4,COD,October,Qtr 4
+ORD-2004,Arjun,Clothing,Shirt,1839,396.31,2,Debit Card,October,Qtr 4
+ORD-2005,Yogesh,Clothing,Saree,2538,303.64,4,Debit Card,January,Qtr 1
+ORD-2006,Yash,Electronics,Printers,7999,818.17,3,UPI,May,Qtr 2
+ORD-2007,Arjun,Electronics,Laptops,4738,689.26,3,UPI,October,Qtr 4
+ORD-2008,Yaanvi,Clothing,Trousers,886,212.94,3,COD,January,Qtr 1
+ORD-2009,Wale,Clothing,Saree,780,211.5,5,Credit Card,August,Qtr 3
+ORD-2010,Sneha,Furniture,Furnishings,11719,1019.86,2,COD,September,Qtr 3
+ORD-2011,Sneha,Electronics,Printers,4747,424.14,2,COD,August,Qtr 3
+ORD-2012,Priya,Clothing,Dress,996,149.2,1,Credit Card,October,Qtr 4
+ORD-2013,Ananya,Electronics,Phones,6690,602.56,1,Credit Card,October,Qtr 4
+ORD-2014,Priya,Furniture,Chairs,4107,265.04,1,Debit Card,February,Qtr 1
+ORD-2015,Yogesh,Electronics,Laptops,2965,813.21,5,COD,September,Qtr 3
+ORD-2016,Yash,Clothing,Shirt,2131,418.32,4,COD,May,Qtr 2
+ORD-2017,Yaanvi,Clothing,Dress,1529,125.08,2,COD,February,Qtr 1
+ORD-2018,Yash,Clothing,Saree,2339,-300.7,5,Credit Card,December,Qtr 4
+ORD-2019,Kartik,Furniture,Tables,14620,1796.65,4,Credit Card,June,Qtr 2
+ORD-2020,Priya,Electronics,Printers,4456,817.03,1,COD,November,Qtr 4
+ORD-2021,Sneha,Electronics,Laptops,10608,1908.52,1,Credit Card,January,Qtr 1
+ORD-2022,Vrinda,Clothing,Trousers,959,153.19,4,COD,November,Qtr 4
+ORD-2023,Kartik,Clothing,Dress,2712,640.49,3,Credit Card,September,Qtr 3
+ORD-2024,Wale,Furniture,Tables,5201,331.73,2,Net Banking,June,Qtr 2
+ORD-2025,Yaanvi,Electronics,Laptops,7528,1047.55,2,UPI,August,Qtr 3
+ORD-2026,Yogesh,Clothing,Trousers,1562,135.36,3,Debit Card,March,Qtr 1
+ORD-2027,Yogesh,Furniture,Bookcases,7273,1224.22,2,Credit Card,October,Qtr 4
+ORD-2028,Yash,Clothing,Shirt,3049,455.34,4,Credit Card,June,Qtr 2
+ORD-2029,Vrinda,Clothing,Shirt,2266,496.62,5,UPI,June,Qtr 2
+ORD-2030,Kartik,Furniture,Chairs,14818,3517.05,1,Credit Card,August,Qtr 3
+ORD-2031,Ananya,Clothing,Dress,2591,220.3,2,COD,February,Qtr 1
+ORD-2032,Yaanvi,Clothing,Saree,2903,335.38,2,COD,June,Qtr 2
+ORD-2033,Rohan,Electronics,Accessories,8064,1826.2,4,COD,October,Qtr 4
+ORD-2034,Kartik,Clothing,Shirt,3360,283.46,4,Credit Card,November,Qtr 4
+ORD-2035,Yogesh,Electronics,Printers,11541,883.38,2,Credit Card,April,Qtr 2
+ORD-2036,Yohann,Furniture,Tables,7255,1436.31,4,Credit Card,August,Qtr 3
+ORD-2037,Yash,Clothing,Shirt,2968,478.16,3,COD,January,Qtr 1
+ORD-2038,Yash,Clothing,Saree,1114,249.16,5,COD,March,Qtr 1
+ORD-2039,Arjun,Electronics,Laptops,10127,1824.42,5,Credit Card,November,Qtr 4
+ORD-2040,Yash,Electronics,Printers,1576,-176.43,1,UPI,December,Qtr 4
+ORD-2041,Yohann,Electronics,Accessories,11157,2018.83,5,COD,January,Qtr 1
+ORD-2042,Kartik,Clothing,Trousers,541,110.79,1,COD,September,Qtr 3
+ORD-2043,Rohan,Clothing,Dress,3168,503.61,2,COD,November,Qtr 4
+ORD-2044,Yash,Clothing,Shirt,2624,555.25,5,Credit Card,November,Qtr 4
+ORD-2045,Sneha,Furniture,Chairs,7374,-1027.28,2,COD,December,Qtr 4
+ORD-2046,Yash,Furniture,Chairs,2939,441.7,1,Credit Card,October,Qtr 4
+ORD-2047,Rohan,Electronics,Printers,10353,1795.41,3,COD,September,Qtr 3
+ORD-2048,Ananya,Furniture,Tables,5126,-413.1,5,COD,July,Qtr 3
+ORD-2049,Wale,Furniture,Bookcases,11937,1707.38,4,COD,March,Qtr 1
+ORD-2050,Vrinda,Electronics,Accessories,6390,895.62,1,COD,November,Qtr 4
+ORD-2051,Yohann,Clothing,Shirt,2356,-166.72,4,COD,May,Qtr 2
+ORD-2052,Ananya,Clothing,Shirt,2242,573.19,3,COD,December,Qtr 4
+ORD-2053,Ananya,Electronics,Accessories,5290,313.25,5,Net Banking,August,Qtr 3
+ORD-2054,Yohann,Furniture,Bookcases,3379,624.2,2,COD,September,Qtr 3
+ORD-2055,Yogesh,Electronics,Laptops,5423,-518.63,5,Debit Card,December,Qtr 4
+ORD-2056,Ananya,Clothing,Trousers,1775,97.05,4,Net Banking,March,Qtr 1
+ORD-2057,Yaanvi,Clothing,Saree,546,-29.03,1,Credit Card,May,Qtr 2
+ORD-2058,Kartik,Furniture,Tables,3423,183.1,1,Credit Card,October,Qtr 4
+ORD-2059,Rohan,Clothing,Dress,471,77.45,3,UPI,July,Qtr 3
+ORD-2060,Priya,Clothing,Saree,761,179.06,5,COD,April,Qtr 2
+ORD-2061,Vrinda,Clothing,Shirt,1615,364.95,1,Credit Card,October,Qtr 4
+ORD-2062,Yohann,Clothing,Dress,3047,519.68,5,COD,August,Qtr 3
+ORD-2063,Arjun,Clothing,Trousers,3499,538.96,4,COD,September,Qtr 3
+ORD-2064,Yogesh,Clothing,Trousers,603,58.08,1,Credit Card,June,Qtr 2
+ORD-2065,Priya,Furniture,Tables,9433,1617.3,1,COD,October,Qtr 4
+ORD-2066,Priya,Furniture,Furnishings,6394,601.0,2,UPI,March,Qtr 1
+ORD-2067,Ananya,Electronics,Laptops,9783,-920.63,2,COD,July,Qtr 3
+ORD-2068,Vrinda,Electronics,Phones,9241,828.37,1,Credit Card,June,Qtr 2
+ORD-2069,Wale,Electronics,Accessories,1864,-100.45,2,Credit Card,July,Qtr 3
+ORD-2070,Yash,Furniture,Bookcases,3186,618.09,1,Credit Card,February,Qtr 1
+ORD-2071,Vrinda,Furniture,Tables,7344,771.34,3,Credit Card,April,Qtr 2
+ORD-2072,Yohann,Clothing,Trousers,3032,556.74,4,COD,November,Qtr 4
+ORD-2073,Priya,Electronics,Accessories,3515,217.76,1,Debit Card,March,Qtr 1
+ORD-2074,Kartik,Furniture,Tables,6108,1454.35,5,UPI,August,Qtr 3
+ORD-2075,Yohann,Clothing,Saree,1579,315.96,2,UPI,August,Qtr 3
+ORD-2076,Vrinda,Electronics,Laptops,4552,1044.32,4,Credit Card,April,Qtr 2
+ORD-2077,Yohann,Electronics,Accessories,4660,770.97,1,Credit Card,February,Qtr 1
+ORD-2078,Yogesh,Electronics,Phones,6808,1608.37,1,COD,June,Qtr 2
+ORD-2079,Yohann,Furniture,Furnishings,14855,2915.53,2,COD,August,Qtr 3
+ORD-2080,Ananya,Furniture,Tables,2886,435.44,5,COD,March,Qtr 1
+ORD-2081,Rohan,Electronics,Laptops,9227,612.58,1,UPI,February,Qtr 1
+ORD-2082,Sneha,Furniture,Bookcases,9952,-1433.77,1,Credit Card,May,Qtr 2
+ORD-2083,Kartik,Clothing,Shirt,1644,407.13,4,Credit Card,June,Qtr 2
+ORD-2084,Sneha,Clothing,Trousers,523,60.4,5,COD,January,Qtr 1
+ORD-2085,Yohann,Furniture,Furnishings,7006,1910.3,2,Credit Card,June,Qtr 2
+ORD-2086,Yogesh,Electronics,Laptops,9782,1569.28,3,COD,August,Qtr 3
+ORD-2087,Ananya,Electronics,Printers,11593,2989.94,3,Debit Card,January,Qtr 1
+ORD-2088,Rohan,Clothing,Trousers,540,124.58,5,COD,October,Qtr 4
+ORD-2089,Wale,Clothing,Saree,2110,129.07,5,UPI,August,Qtr 3
+ORD-2090,Yaanvi,Clothing,Dress,2735,540.34,4,COD,October,Qtr 4
+ORD-2091,Vrinda,Clothing,Dress,656,-29.88,4,COD,May,Qtr 2
+ORD-2092,Ananya,Clothing,Dress,1471,169.47,1,Credit Card,September,Qtr 3
+ORD-2093,Rohan,Furniture,Bookcases,9616,1570.67,1,COD,June,Qtr 2
+ORD-2094,Yohann,Clothing,Trousers,2860,-312.73,3,Debit Card,December,Qtr 4
+ORD-2095,Arjun,Clothing,Saree,833,201.24,4,Debit Card,December,Qtr 4
+ORD-2096,Kartik,Electronics,Accessories,1746,89.47,3,COD,January,Qtr 1
+ORD-2097,Yogesh,Electronics,Laptops,7345,760.14,1,COD,January,Qtr 1
+ORD-2098,Yohann,Electronics,Laptops,3608,792.95,2,UPI,November,Qtr 4
+ORD-2099,Ananya,Clothing,Trousers,1604,109.97,5,Credit Card,November,Qtr 4
+ORD-2100,Sneha,Furniture,Furnishings,9838,814.69,1,COD,April,Qtr 2
+ORD-2101,Vrinda,Electronics,Accessories,11588,2230.7,3,UPI,November,Qtr 4
+ORD-2102,Yaanvi,Electronics,Laptops,2859,500.97,3,Net Banking,January,Qtr 1
+ORD-2103,Vrinda,Clothing,Dress,2510,532.2,2,UPI,October,Qtr 4
+ORD-2104,Yogesh,Electronics,Laptops,8104,1364.5,5,COD,January,Qtr 1
+ORD-2105,Arjun,Clothing,Shirt,3085,582.94,3,UPI,August,Qtr 3
+ORD-2106,Yash,Clothing,Shirt,3426,510.91,1,COD,March,Qtr 1
+ORD-2107,Yogesh,Clothing,Trousers,1966,141.14,2,Debit Card,February,Qtr 1
+ORD-2108,Priya,Furniture,Bookcases,4666,1105.38,5,COD,December,Qtr 4
+ORD-2109,Yogesh,Clothing,Shirt,422,66.63,4,COD,January,Qtr 1
+ORD-2110,Yash,Electronics,Phones,5811,525.4,2,COD,March,Qtr 1
+ORD-2111,Arjun,Electronics,Accessories,9646,1558.88,5,Credit Card,January,Qtr 1
+ORD-2112,Vrinda,Electronics,Laptops,6427,-533.06,2,COD,December,Qtr 4
+ORD-2113,Vrinda,Clothing,Shirt,3033,-216.81,3,Credit Card,December,Qtr 4
+ORD-2114,Sneha,Electronics,Printers,8734,859.97,1,Credit Card,December,Qtr 4
+ORD-2115,Kartik,Clothing,Saree,2205,492.44,1,Debit Card,April,Qtr 2
+ORD-2116,Yaanvi,Furniture,Furnishings,12516,3025.39,4,UPI,September,Qtr 3
+ORD-2117,Yohann,Clothing,Trousers,2424,173.6,3,Credit Card,June,Qtr 2
+ORD-2118,Wale,Clothing,Shirt,3237,435.29,1,Credit Card,March,Qtr 1
+ORD-2119,Vrinda,Furniture,Tables,11611,2318.5,1,Debit Card,June,Qtr 2
+ORD-2120,Yaanvi,Electronics,Printers,2364,388.52,1,COD,June,Qtr 2
+ORD-2121,Yohann,Electronics,Accessories,6159,503.78,2,Credit Card,November,Qtr 4
+ORD-2122,Vrinda,Clothing,Shirt,2695,730.68,1,UPI,February,Qtr 1
+ORD-2123,Wale,Electronics,Laptops,3131,212.96,4,Net Banking,July,Qtr 3
+ORD-2124,Yash,Furniture,Furnishings,5012,394.8,2,Net Banking,April,Qtr 2
+ORD-2125,Vrinda,Clothing,Trousers,1584,418.18,2,COD,April,Qtr 2
+ORD-2126,Rohan,Furniture,Bookcases,5133,655.36,2,Credit Card,October,Qtr 4
+ORD-2127,Yohann,Electronics,Printers,10933,-1313.57,3,UPI,December,Qtr 4
+ORD-2128,Yogesh,Clothing,Shirt,2076,307.93,1,UPI,August,Qtr 3
+ORD-2129,Wale,Clothing,Saree,815,133.04,1,COD,November,Qtr 4
+ORD-2130,Kartik,Clothing,Dress,2216,208.59,1,COD,May,Qtr 2
+ORD-2131,Wale,Electronics,Accessories,5684,614.41,4,UPI,January,Qtr 1
+ORD-2132,Yogesh,Furniture,Chairs,10127,1589.09,4,COD,October,Qtr 4
+ORD-2133,Sneha,Electronics,Printers,11707,2565.82,2,UPI,April,Qtr 2
+ORD-2134,Priya,Electronics,Laptops,9507,-419.7,3,COD,December,Qtr 4
+ORD-2135,Vrinda,Clothing,Dress,2922,772.82,4,Credit Card,October,Qtr 4
+ORD-2136,Yohann,Electronics,Phones,7652,-874.35,1,UPI,May,Qtr 2
+ORD-2137,Vrinda,Clothing,Trousers,2965,792.01,4,Debit Card,January,Qtr 1
+ORD-2138,Yogesh,Clothing,Dress,1861,182.68,3,Debit Card,January,Qtr 1
+ORD-2139,Priya,Clothing,Saree,1089,199.78,3,UPI,August,Qtr 3
+ORD-2140,Priya,Furniture,Tables,14109,1721.75,1,Debit Card,June,Qtr 2
+ORD-2141,Wale,Clothing,Saree,2988,369.69,4,Debit Card,November,Qtr 4
+ORD-2142,Rohan,Electronics,Laptops,7812,1701.37,5,Net Banking,August,Qtr 3
+ORD-2143,Arjun,Clothing,Trousers,1121,288.4,1,UPI,September,Qtr 3
+ORD-2144,Rohan,Electronics,Laptops,8864,1803.74,3,COD,February,Qtr 1
+ORD-2145,Priya,Clothing,Trousers,2920,800.37,2,COD,November,Qtr 4
+ORD-2146,Wale,Clothing,Shirt,3008,371.5,4,COD,January,Qtr 1
+ORD-2147,Sneha,Electronics,Laptops,3368,797.34,3,COD,June,Qtr 2
+ORD-2148,Ananya,Furniture,Furnishings,8212,1355.66,5,UPI,November,Qtr 4
+ORD-2149,Yaanvi,Clothing,Saree,3359,488.69,2,COD,February,Qtr 1
+ORD-2150,Rohan,Electronics,Laptops,10579,1776.21,2,Credit Card,November,Qtr 4
+ORD-2151,Vrinda,Furniture,Bookcases,14866,-1383.53,3,Net Banking,July,Qtr 3
+ORD-2152,Sneha,Clothing,Shirt,885,190.6,4,COD,January,Qtr 1
+ORD-2153,Yohann,Electronics,Laptops,9478,2514.31,4,Debit Card,March,Qtr 1
+ORD-2154,Yash,Electronics,Phones,2600,726.02,4,Debit Card,January,Qtr 1
+ORD-2155,Rohan,Electronics,Phones,6282,323.53,4,Credit Card,April,Qtr 2
+ORD-2156,Yaanvi,Electronics,Phones,5385,823.22,4,Debit Card,July,Qtr 3
+ORD-2157,Yogesh,Furniture,Chairs,6114,555.18,2,UPI,March,Qtr 1
+ORD-2158,Rohan,Clothing,Dress,3168,838.72,3,Debit Card,June,Qtr 2
+ORD-2159,Sneha,Electronics,Laptops,7477,961.25,1,COD,August,Qtr 3
+ORD-2160,Sneha,Furniture,Bookcases,3095,210.77,4,Debit Card,March,Qtr 1
+ORD-2161,Rohan,Electronics,Printers,3460,526.94,2,COD,March,Qtr 1
+ORD-2162,Vrinda,Clothing,Saree,3096,735.4,1,COD,April,Qtr 2
+ORD-2163,Wale,Furniture,Tables,7137,1820.78,5,COD,September,Qtr 3
+ORD-2164,Priya,Clothing,Shirt,3468,699.38,4,COD,November,Qtr 4
+ORD-2165,Yohann,Electronics,Laptops,9994,1278.36,5,UPI,September,Qtr 3
+ORD-2166,Yaanvi,Electronics,Accessories,5074,1128.4,3,COD,October,Qtr 4
+ORD-2167,Kartik,Electronics,Accessories,3828,753.52,4,Debit Card,February,Qtr 1
+ORD-2168,Yohann,Clothing,Shirt,932,171.23,5,Credit Card,June,Qtr 2
+ORD-2169,Kartik,Electronics,Laptops,2831,274.0,3,Net Banking,March,Qtr 1
+ORD-2170,Arjun,Clothing,Trousers,1567,-178.26,1,COD,July,Qtr 3
+ORD-2171,Arjun,Clothing,Saree,443,108.19,2,COD,December,Qtr 4
+ORD-2172,Vrinda,Clothing,Shirt,1482,160.51,5,COD,September,Qtr 3
+ORD-2173,Yogesh,Furniture,Bookcases,11894,2551.4,2,COD,January,Qtr 1
+ORD-2174,Yohann,Electronics,Phones,5383,963.34,5,Debit Card,November,Qtr 4
+ORD-2175,Yash,Clothing,Dress,1102,222.86,5,COD,June,Qtr 2
+ORD-2176,Vrinda,Clothing,Trousers,1673,364.54,3,UPI,September,Qtr 3
+ORD-2177,Yohann,Clothing,Dress,790,205.35,2,Debit Card,June,Qtr 2
+ORD-2178,Arjun,Clothing,Trousers,3124,458.78,3,UPI,August,Qtr 3
+ORD-2179,Sneha,Clothing,Saree,991,52.86,2,UPI,November,Qtr 4
+ORD-2180,Arjun,Electronics,Printers,10527,1392.76,2,COD,October,Qtr 4
+ORD-2181,Priya,Clothing,Dress,1312,227.2,3,UPI,September,Qtr 3
+ORD-2182,Wale,Electronics,Accessories,4449,277.76,1,Credit Card,April,Qtr 2
+ORD-2183,Yohann,Electronics,Printers,10922,1536.06,3,Credit Card,June,Qtr 2
+ORD-2184,Vrinda,Clothing,Dress,1158,77.93,3,Credit Card,September,Qtr 3
+ORD-2185,Wale,Electronics,Phones,7530,1096.0,4,Debit Card,September,Qtr 3
+ORD-2186,Priya,Clothing,Saree,2574,-139.87,5,COD,July,Qtr 3
+ORD-2187,Sneha,Electronics,Phones,3050,187.08,3,COD,August,Qtr 3
+ORD-2188,Kartik,Clothing,Dress,634,125.55,5,UPI,July,Qtr 3
+ORD-2189,Yash,Clothing,Shirt,480,-64.79,3,COD,July,Qtr 3
+ORD-2190,Yash,Electronics,Printers,10711,1366.26,5,COD,May,Qtr 2
+ORD-2191,Wale,Clothing,Shirt,1312,180.69,2,COD,August,Qtr 3
+ORD-2192,Kartik,Clothing,Trousers,2092,270.95,3,Net Banking,July,Qtr 3
+ORD-2193,Yohann,Clothing,Shirt,494,119.18,2,COD,June,Qtr 2
+ORD-2194,Yash,Clothing,Trousers,1846,291.2,4,UPI,August,Qtr 3
+ORD-2195,Kartik,Electronics,Printers,2816,777.24,2,COD,March,Qtr 1
+ORD-2196,Kartik,Electronics,Accessories,2060,539.71,5,COD,November,Qtr 4
+ORD-2197,Wale,Electronics,Accessories,2494,519.52,5,COD,May,Qtr 2
+ORD-2198,Yohann,Clothing,Trousers,1518,304.51,5,COD,June,Qtr 2
+ORD-2199,Yogesh,Clothing,Dress,2929,569.11,2,Credit Card,September,Qtr 3
+ORD-2200,Yash,Clothing,Shirt,2297,297.3,2,Debit Card,September,Qtr 3
+ORD-2201,Rohan,Furniture,Furnishings,9255,1897.48,4,Credit Card,April,Qtr 2
+ORD-2202,Yash,Clothing,Trousers,1413,201.15,4,Credit Card,March,Qtr 1
+ORD-2203,Kartik,Clothing,Trousers,1657,-212.34,5,Credit Card,December,Qtr 4
+ORD-2204,Yogesh,Clothing,Dress,460,-21.41,4,UPI,May,Qtr 2
+ORD-2205,Ananya,Electronics,Phones,1581,-156.02,3,COD,May,Qtr 2
+ORD-2206,Yogesh,Clothing,Saree,2955,653.5,3,COD,October,Qtr 4
+ORD-2207,Rohan,Furniture,Chairs,3525,279.47,3,COD,December,Qtr 4
+ORD-2208,Arjun,Furniture,Furnishings,7957,733.12,3,UPI,January,Qtr 1
+ORD-2209,Priya,Electronics,Accessories,4310,1145.39,4,Credit Card,April,Qtr 2
+ORD-2210,Vrinda,Clothing,Trousers,1161,122.37,4,Credit Card,January,Qtr 1
+ORD-2211,Priya,Clothing,Saree,1246,215.01,2,UPI,September,Qtr 3
+ORD-2212,Vrinda,Furniture,Bookcases,7745,-872.71,1,COD,December,Qtr 4
+ORD-2213,Yash,Furniture,Chairs,14495,1492.68,5,Debit Card,June,Qtr 2
+ORD-2214,Yohann,Electronics,Accessories,3160,701.82,2,Credit Card,April,Qtr 2
+ORD-2215,Kartik,Clothing,Dress,3194,-197.52,1,Debit Card,December,Qtr 4
+ORD-2216,Yogesh,Electronics,Accessories,7685,1556.78,3,Credit Card,October,Qtr 4
+ORD-2217,Ananya,Clothing,Shirt,808,-92.68,3,UPI,December,Qtr 4
+ORD-2218,Sneha,Furniture,Furnishings,7731,801.94,1,COD,October,Qtr 4
+ORD-2219,Yaanvi,Electronics,Accessories,1764,368.53,5,Credit Card,April,Qtr 2
+ORD-2220,Kartik,Clothing,Dress,1045,184.72,2,COD,March,Qtr 1
+ORD-2221,Rohan,Electronics,Accessories,11926,2061.66,1,COD,November,Qtr 4
+ORD-2222,Rohan,Furniture,Furnishings,13362,2856.29,4,Debit Card,March,Qtr 1
+ORD-2223,Sneha,Clothing,Shirt,1649,-236.06,3,UPI,May,Qtr 2
+ORD-2224,Yohann,Clothing,Trousers,842,162.04,5,COD,March,Qtr 1
+ORD-2225,Priya,Electronics,Accessories,8596,999.5,4,Credit Card,July,Qtr 3
+ORD-2226,Priya,Electronics,Printers,6702,680.11,3,COD,September,Qtr 3
+ORD-2227,Priya,Clothing,Dress,2380,403.74,5,COD,January,Qtr 1
+ORD-2228,Yogesh,Clothing,Dress,2381,245.41,2,COD,May,Qtr 2
+ORD-2229,Rohan,Electronics,Printers,7420,1970.0,3,COD,November,Qtr 4
+ORD-2230,Vrinda,Clothing,Saree,1457,366.05,1,UPI,January,Qtr 1
+ORD-2231,Yaanvi,Furniture,Chairs,10592,1423.67,4,UPI,December,Qtr 4
+ORD-2232,Kartik,Electronics,Phones,3473,303.94,5,COD,October,Qtr 4
+ORD-2233,Yohann,Clothing,Shirt,458,36.15,2,COD,September,Qtr 3
+ORD-2234,Rohan,Electronics,Accessories,8408,1562.19,1,COD,May,Qtr 2
+ORD-2235,Yash,Electronics,Phones,2750,586.68,2,Debit Card,June,Qtr 2
+ORD-2236,Wale,Electronics,Laptops,7936,-1013.89,3,UPI,May,Qtr 2
+ORD-2237,Kartik,Furniture,Furnishings,8048,2246.2,4,UPI,April,Qtr 2
+ORD-2238,Ananya,Clothing,Saree,3015,495.87,5,Net Banking,August,Qtr 3
+ORD-2239,Arjun,Electronics,Laptops,4007,536.82,2,COD,March,Qtr 1
+ORD-2240,Kartik,Electronics,Phones,2213,561.46,5,COD,November,Qtr 4
+ORD-2241,Vrinda,Electronics,Accessories,8573,1090.3,5,Credit Card,September,Qtr 3
+ORD-2242,Wale,Furniture,Furnishings,14426,1144.57,3,UPI,February,Qtr 1
+ORD-2243,Yaanvi,Furniture,Tables,13825,3185.88,4,COD,October,Qtr 4
+ORD-2244,Arjun,Clothing,Saree,3127,658.55,3,UPI,October,Qtr 4
+ORD-2245,Ananya,Clothing,Saree,1371,253.4,5,UPI,June,Qtr 2
+ORD-2246,Yohann,Electronics,Phones,5397,1020.97,2,COD,March,Qtr 1
+ORD-2247,Ananya,Clothing,Shirt,1915,121.83,2,COD,November,Qtr 4
+ORD-2248,Rohan,Clothing,Saree,1517,149.44,5,UPI,September,Qtr 3
+ORD-2249,Yash,Electronics,Laptops,9065,717.44,5,Debit Card,August,Qtr 3
+ORD-2250,Rohan,Electronics,Printers,11957,2857.28,3,Credit Card,August,Qtr 3
+ORD-2251,Kartik,Electronics,Phones,8202,-416.55,1,COD,May,Qtr 2
+ORD-2252,Ananya,Clothing,Dress,3227,779.89,1,COD,October,Qtr 4
+ORD-2253,Wale,Clothing,Saree,2184,517.43,1,Credit Card,November,Qtr 4
+ORD-2254,Yaanvi,Clothing,Dress,2929,-395.2,4,COD,May,Qtr 2
+ORD-2255,Yash,Clothing,Shirt,498,78.6,2,COD,September,Qtr 3
+ORD-2256,Yohann,Clothing,Shirt,2977,-140.92,3,COD,July,Qtr 3
+ORD-2257,Arjun,Furniture,Chairs,3387,-168.87,5,Credit Card,December,Qtr 4
+ORD-2258,Sneha,Furniture,Furnishings,12460,3082.93,3,COD,April,Qtr 2
+ORD-2259,Priya,Furniture,Bookcases,10691,2626.55,5,COD,October,Qtr 4
+ORD-2260,Wale,Clothing,Trousers,1619,446.11,1,Credit Card,November,Qtr 4
+ORD-2261,Kartik,Clothing,Shirt,3479,630.59,4,UPI,April,Qtr 2
+ORD-2262,Yash,Electronics,Phones,9290,-645.82,2,COD,December,Qtr 4
+ORD-2263,Vrinda,Electronics,Printers,6544,423.59,3,COD,June,Qtr 2
+ORD-2264,Yohann,Furniture,Furnishings,13987,2030.95,3,Credit Card,April,Qtr 2
+ORD-2265,Arjun,Clothing,Saree,2124,393.3,2,COD,September,Qtr 3
+ORD-2266,Vrinda,Clothing,Trousers,1806,393.81,1,Debit Card,February,Qtr 1
+ORD-2267,Ananya,Furniture,Furnishings,6183,1669.83,3,COD,October,Qtr 4
+ORD-2268,Rohan,Clothing,Shirt,2692,291.04,3,UPI,January,Qtr 1
+ORD-2269,Yohann,Clothing,Shirt,2747,315.48,1,Credit Card,June,Qtr 2
+ORD-2270,Sneha,Clothing,Saree,3465,694.18,1,Debit Card,October,Qtr 4
+ORD-2271,Arjun,Furniture,Tables,8668,504.34,4,Credit Card,September,Qtr 3
+ORD-2272,Kartik,Clothing,Dress,2819,-404.6,4,Credit Card,December,Qtr 4
+ORD-2273,Yash,Furniture,Bookcases,14960,1333.43,5,Net Banking,August,Qtr 3
+ORD-2274,Wale,Clothing,Dress,2058,450.01,5,Credit Card,October,Qtr 4
+ORD-2275,Rohan,Clothing,Saree,962,192.29,5,COD,January,Qtr 1
+ORD-2276,Arjun,Electronics,Accessories,8493,939.38,5,COD,September,Qtr 3
+ORD-2277,Priya,Clothing,Saree,1045,-121.99,5,Credit Card,May,Qtr 2
+ORD-2278,Rohan,Electronics,Printers,7550,1344.81,5,UPI,September,Qtr 3
+ORD-2279,Arjun,Electronics,Printers,10287,2251.26,5,COD,April,Qtr 2
+ORD-2280,Rohan,Electronics,Laptops,10667,2503.55,4,UPI,November,Qtr 4
+ORD-2281,Sneha,Clothing,Dress,2718,389.47,5,COD,January,Qtr 1
+ORD-2282,Yash,Electronics,Phones,10000,1464.59,5,COD,November,Qtr 4
+ORD-2283,Sneha,Furniture,Bookcases,8057,1306.84,5,Debit Card,November,Qtr 4
+ORD-2284,Ananya,Clothing,Shirt,1678,187.56,4,COD,June,Qtr 2
+ORD-2285,Yaanvi,Furniture,Bookcases,4500,529.25,4,COD,February,Qtr 1
+ORD-2286,Ananya,Clothing,Trousers,2510,205.11,1,UPI,April,Qtr 2
+ORD-2287,Yohann,Electronics,Printers,10974,2408.41,4,Credit Card,March,Qtr 1
+ORD-2288,Sneha,Electronics,Printers,10908,1417.9,5,UPI,November,Qtr 4
+ORD-2289,Yaanvi,Electronics,Phones,7111,1153.23,2,COD,October,Qtr 4
+ORD-2290,Ananya,Electronics,Phones,8242,2139.08,4,COD,October,Qtr 4
+ORD-2291,Rohan,Furniture,Tables,12649,916.71,4,Debit Card,June,Qtr 2
+ORD-2292,Arjun,Clothing,Saree,1864,515.95,4,COD,November,Qtr 4
+ORD-2293,Ananya,Electronics,Laptops,11970,-794.92,2,Credit Card,December,Qtr 4
+ORD-2294,Yohann,Furniture,Tables,3417,567.64,3,Credit Card,November,Qtr 4
+ORD-2295,Yaanvi,Furniture,Tables,4504,780.65,5,Debit Card,April,Qtr 2
+ORD-2296,Vrinda,Clothing,Saree,1051,-153.11,2,Net Banking,December,Qtr 4
+ORD-2297,Yash,Electronics,Accessories,7275,1958.9,2,COD,April,Qtr 2
+ORD-2298,Sneha,Electronics,Phones,11982,-1411.16,4,Credit Card,May,Qtr 2
+ORD-2299,Yohann,Clothing,Shirt,574,94.4,2,COD,December,Qtr 4
+ORD-2300,Yohann,Clothing,Dress,3115,-466.87,1,Credit Card,December,Qtr 4
+ORD-2301,Wale,Furniture,Furnishings,4514,553.42,4,Credit Card,February,Qtr 1
+ORD-2302,Vrinda,Clothing,Saree,2743,636.0,2,Credit Card,December,Qtr 4
+ORD-2303,Yohann,Clothing,Trousers,3159,-448.8,4,Credit Card,July,Qtr 3
+ORD-2304,Vrinda,Furniture,Furnishings,11164,2468.71,4,UPI,June,Qtr 2
+ORD-2305,Yaanvi,Electronics,Accessories,3607,775.36,4,COD,February,Qtr 1
+ORD-2306,Rohan,Furniture,Chairs,2043,-193.12,1,Debit Card,July,Qtr 3
+ORD-2307,Arjun,Clothing,Saree,3131,678.23,4,UPI,January,Qtr 1
+ORD-2308,Kartik,Clothing,Dress,412,-39.6,3,COD,December,Qtr 4
+ORD-2309,Arjun,Furniture,Bookcases,12282,867.85,1,Net Banking,February,Qtr 1
+ORD-2310,Yogesh,Electronics,Laptops,8475,1627.34,4,COD,March,Qtr 1
+ORD-2311,Yohann,Electronics,Printers,7596,683.04,4,COD,February,Qtr 1
+ORD-2312,Wale,Furniture,Tables,11173,1822.67,1,COD,August,Qtr 3
+ORD-2313,Ananya,Clothing,Saree,1658,389.54,2,Debit Card,April,Qtr 2
+ORD-2314,Ananya,Electronics,Printers,8130,1323.59,5,COD,January,Qtr 1
+ORD-2315,Yaanvi,Clothing,Dress,984,112.25,5,Net Banking,October,Qtr 4
+ORD-2316,Yash,Electronics,Phones,2040,367.78,2,COD,April,Qtr 2
+ORD-2317,Yaanvi,Electronics,Printers,3051,193.1,2,COD,March,Qtr 1
+ORD-2318,Yash,Clothing,Dress,1936,167.08,2,COD,August,Qtr 3
+ORD-2319,Arjun,Electronics,Laptops,6217,1387.31,2,COD,July,Qtr 3
+ORD-2320,Arjun,Clothing,Saree,2013,-237.58,3,COD,July,Qtr 3
+ORD-2321,Yohann,Electronics,Laptops,8179,2276.58,5,COD,July,Qtr 3
+ORD-2322,Sneha,Clothing,Trousers,1732,223.26,1,COD,June,Qtr 2
+ORD-2323,Yogesh,Clothing,Shirt,772,-60.8,5,COD,July,Qtr 3
+ORD-2324,Ananya,Clothing,Dress,1825,169.08,4,COD,February,Qtr 1
+ORD-2325,Yaanvi,Electronics,Accessories,9356,1479.82,5,Credit Card,October,Qtr 4
+ORD-2326,Rohan,Clothing,Saree,1954,370.93,5,Net Banking,July,Qtr 3
+ORD-2327,Rohan,Electronics,Phones,2057,445.2,4,Debit Card,June,Qtr 2
+ORD-2328,Priya,Furniture,Furnishings,2510,202.84,3,Credit Card,February,Qtr 1
+ORD-2329,Kartik,Electronics,Printers,6934,1612.09,3,Debit Card,November,Qtr 4
+ORD-2330,Vrinda,Furniture,Chairs,12336,1523.74,1,COD,October,Qtr 4
+ORD-2331,Wale,Furniture,Tables,13662,1937.89,1,COD,December,Qtr 4
+ORD-2332,Arjun,Clothing,Shirt,2968,491.66,4,Net Banking,July,Qtr 3
+ORD-2333,Ananya,Furniture,Bookcases,13901,3190.56,5,Net Banking,February,Qtr 1
+ORD-2334,Rohan,Electronics,Phones,9973,1480.68,1,Credit Card,December,Qtr 4
+ORD-2335,Rohan,Clothing,Trousers,1996,480.46,1,COD,January,Qtr 1
+ORD-2336,Ananya,Clothing,Shirt,2472,594.39,5,COD,November,Qtr 4
+ORD-2337,Wale,Clothing,Saree,2938,412.95,4,COD,September,Qtr 3
+ORD-2338,Wale,Clothing,Trousers,439,28.3,4,COD,February,Qtr 1
+ORD-2339,Yash,Electronics,Printers,10174,-704.83,1,COD,December,Qtr 4
+ORD-2340,Arjun,Clothing,Saree,1392,157.5,4,Net Banking,October,Qtr 4
+ORD-2341,Wale,Furniture,Furnishings,11795,-749.79,5,UPI,May,Qtr 2
+ORD-2342,Sneha,Clothing,Trousers,2697,726.68,3,COD,September,Qtr 3
+ORD-2343,Priya,Electronics,Printers,7986,613.18,3,Credit Card,June,Qtr 2
+ORD-2344,Yash,Electronics,Printers,8135,1021.85,1,COD,January,Qtr 1
+ORD-2345,Sneha,Electronics,Phones,1875,368.65,1,COD,September,Qtr 3
+ORD-2346,Yohann,Electronics,Laptops,9040,1673.93,2,COD,December,Qtr 4
+ORD-2347,Arjun,Clothing,Saree,2276,527.75,5,Credit Card,December,Qtr 4
+ORD-2348,Arjun,Electronics,Laptops,8362,1629.82,1,Debit Card,January,Qtr 1
+ORD-2349,Ananya,Clothing,Saree,2608,302.35,5,Credit Card,November,Qtr 4
+ORD-2350,Vrinda,Clothing,Saree,1941,459.97,3,UPI,November,Qtr 4
+ORD-2351,Yohann,Clothing,Shirt,1510,260.79,4,UPI,March,Qtr 1
+ORD-2352,Yash,Clothing,Shirt,1110,144.4,5,COD,August,Qtr 3
+ORD-2353,Yash,Electronics,Accessories,11533,861.68,5,Credit Card,October,Qtr 4
+ORD-2354,Vrinda,Furniture,Bookcases,2789,411.97,5,Credit Card,August,Qtr 3
+ORD-2355,Kartik,Clothing,Saree,2803,-207.0,4,COD,May,Qtr 2
+ORD-2356,Priya,Clothing,Trousers,2337,622.99,5,COD,January,Qtr 1
+ORD-2357,Priya,Electronics,Accessories,4139,-280.93,4,COD,May,Qtr 2
+ORD-2358,Yogesh,Electronics,Phones,3960,583.15,3,COD,January,Qtr 1
+ORD-2359,Yogesh,Electronics,Laptops,11092,-1413.29,1,Debit Card,December,Qtr 4
+ORD-2360,Yaanvi,Electronics,Phones,5713,1573.25,5,COD,September,Qtr 3
+ORD-2361,Arjun,Clothing,Saree,3269,615.63,5,COD,February,Qtr 1
+ORD-2362,Arjun,Furniture,Bookcases,3919,1040.14,3,Debit Card,September,Qtr 3
+ORD-2363,Yohann,Clothing,Dress,2086,169.27,2,Credit Card,July,Qtr 3
+ORD-2364,Ananya,Clothing,Saree,1516,355.71,2,Credit Card,December,Qtr 4
+ORD-2365,Arjun,Clothing,Shirt,2071,365.82,3,Credit Card,March,Qtr 1
+ORD-2366,Vrinda,Clothing,Saree,559,-47.93,5,Credit Card,July,Qtr 3
+ORD-2367,Vrinda,Electronics,Laptops,11415,1938.13,4,Net Banking,January,Qtr 1
+ORD-2368,Sneha,Clothing,Trousers,1727,277.52,2,Credit Card,October,Qtr 4
+ORD-2369,Kartik,Electronics,Laptops,3917,-337.59,2,Credit Card,May,Qtr 2
+ORD-2370,Yogesh,Electronics,Printers,8581,1410.25,1,Credit Card,July,Qtr 3
+ORD-2371,Kartik,Electronics,Printers,7436,-385.97,1,COD,May,Qtr 2
+ORD-2372,Arjun,Furniture,Tables,7161,1764.53,5,COD,March,Qtr 1
+ORD-2373,Yash,Clothing,Saree,3495,200.38,5,COD,July,Qtr 3
+ORD-2374,Yohann,Clothing,Shirt,2962,440.58,5,Credit Card,August,Qtr 3
+ORD-2375,Rohan,Clothing,Trousers,1741,484.19,1,COD,February,Qtr 1
+ORD-2376,Ananya,Clothing,Saree,921,217.59,4,Net Banking,April,Qtr 2
+ORD-2377,Yash,Furniture,Chairs,14873,3978.45,1,Debit Card,March,Qtr 1
+ORD-2378,Yohann,Clothing,Trousers,769,162.4,5,Debit Card,January,Qtr 1
+ORD-2379,Yaanvi,Furniture,Chairs,8048,521.46,1,Credit Card,October,Qtr 4
+ORD-2380,Wale,Clothing,Dress,3298,352.23,3,Credit Card,August,Qtr 3
+ORD-2381,Yohann,Electronics,Laptops,6419,1535.61,1,COD,April,Qtr 2
+ORD-2382,Wale,Electronics,Phones,3332,258.82,3,Credit Card,December,Qtr 4
+ORD-2383,Kartik,Electronics,Phones,7043,382.73,3,Credit Card,August,Qtr 3
+ORD-2384,Arjun,Clothing,Dress,2789,587.6,5,COD,February,Qtr 1
+ORD-2385,Arjun,Electronics,Printers,9014,-606.99,5,COD,May,Qtr 2
+ORD-2386,Kartik,Clothing,Shirt,759,60.59,3,Debit Card,April,Qtr 2
+ORD-2387,Kartik,Electronics,Phones,6747,1557.57,1,Credit Card,August,Qtr 3
+ORD-2388,Yogesh,Electronics,Printers,5986,1213.08,5,COD,October,Qtr 4
+ORD-2389,Yash,Clothing,Saree,2046,571.31,1,Debit Card,April,Qtr 2
+ORD-2390,Ananya,Furniture,Furnishings,6131,1214.22,1,Net Banking,October,Qtr 4
+ORD-2391,Yash,Electronics,Laptops,8040,1416.92,5,Credit Card,February,Qtr 1
+ORD-2392,Wale,Electronics,Printers,1825,427.64,5,Credit Card,September,Qtr 3
+ORD-2393,Vrinda,Furniture,Furnishings,13226,-731.21,3,COD,May,Qtr 2
+ORD-2394,Priya,Clothing,Dress,2063,268.08,4,Debit Card,November,Qtr 4
+ORD-2395,Yash,Electronics,Printers,10643,2455.59,5,COD,August,Qtr 3
+ORD-2396,Yogesh,Furniture,Bookcases,3028,449.98,2,UPI,November,Qtr 4
+ORD-2397,Yohann,Clothing,Saree,2077,535.99,2,Net Banking,July,Qtr 3
+ORD-2398,Ananya,Clothing,Saree,620,-45.98,5,Credit Card,May,Qtr 2
+ORD-2399,Sneha,Electronics,Laptops,6099,842.08,1,UPI,September,Qtr 3
+ORD-2400,Vrinda,Clothing,Shirt,645,159.28,5,UPI,September,Qtr 3
+ORD-2401,Priya,Clothing,Trousers,1988,459.76,2,COD,January,Qtr 1
+ORD-2402,Kartik,Furniture,Furnishings,11114,845.76,2,COD,January,Qtr 1
+ORD-2403,Arjun,Electronics,Printers,10125,-1286.37,3,COD,December,Qtr 4
+ORD-2404,Kartik,Electronics,Laptops,4067,664.53,5,Credit Card,August,Qtr 3
+ORD-2405,Yogesh,Electronics,Phones,5710,680.35,1,Credit Card,April,Qtr 2
+ORD-2406,Priya,Electronics,Printers,7112,1111.55,3,Credit Card,April,Qtr 2
+ORD-2407,Priya,Electronics,Printers,7891,1080.65,3,Credit Card,September,Qtr 3
+ORD-2408,Yash,Clothing,Shirt,2873,262.83,3,Credit Card,August,Qtr 3
+ORD-2409,Kartik,Furniture,Chairs,13572,2541.02,1,COD,January,Qtr 1
+ORD-2410,Vrinda,Clothing,Trousers,2070,326.22,2,UPI,January,Qtr 1
+ORD-2411,Wale,Clothing,Shirt,2390,458.17,5,UPI,June,Qtr 2
+ORD-2412,Yaanvi,Clothing,Saree,1124,274.45,3,Net Banking,December,Qtr 4
+ORD-2413,Sneha,Furniture,Tables,7066,1977.66,1,Net Banking,September,Qtr 3
+ORD-2414,Arjun,Clothing,Trousers,1102,115.3,2,UPI,June,Qtr 2
+ORD-2415,Arjun,Clothing,Dress,3201,398.0,2,COD,September,Qtr 3
+ORD-2416,Wale,Clothing,Dress,1543,382.15,3,Debit Card,June,Qtr 2
+ORD-2417,Sneha,Clothing,Saree,897,185.9,1,Debit Card,January,Qtr 1
+ORD-2418,Kartik,Clothing,Saree,920,197.41,1,Credit Card,April,Qtr 2
+ORD-2419,Priya,Electronics,Printers,3107,241.82,5,Credit Card,June,Qtr 2
+ORD-2420,Yaanvi,Clothing,Dress,1488,170.21,3,Debit Card,July,Qtr 3
+ORD-2421,Ananya,Clothing,Dress,2173,201.77,1,COD,March,Qtr 1
+ORD-2422,Yash,Clothing,Dress,1724,157.25,5,Credit Card,August,Qtr 3
+ORD-2423,Wale,Electronics,Printers,10096,1934.3,3,Credit Card,February,Qtr 1
+ORD-2424,Arjun,Clothing,Trousers,3325,520.85,5,Credit Card,January,Qtr 1
+ORD-2425,Yohann,Clothing,Trousers,2222,600.97,4,COD,May,Qtr 2
+ORD-2426,Sneha,Clothing,Saree,1727,196.01,2,Credit Card,April,Qtr 2
+ORD-2427,Arjun,Clothing,Dress,2437,-336.28,3,COD,July,Qtr 3
+ORD-2428,Yogesh,Clothing,Saree,1603,-137.89,2,COD,July,Qtr 3
+ORD-2429,Ananya,Clothing,Saree,620,57.63,3,UPI,July,Qtr 3
+ORD-2430,Arjun,Clothing,Dress,1243,335.02,2,COD,May,Qtr 2
+ORD-2431,Yogesh,Furniture,Tables,8569,-1083.91,5,COD,May,Qtr 2
+ORD-2432,Arjun,Furniture,Furnishings,2747,144.11,3,COD,May,Qtr 2
+ORD-2433,Yogesh,Furniture,Bookcases,5126,328.81,3,Debit Card,January,Qtr 1
+ORD-2434,Kartik,Clothing,Dress,1709,105.44,1,COD,February,Qtr 1
+ORD-2435,Yohann,Clothing,Saree,2660,226.86,3,Credit Card,September,Qtr 3
+ORD-2436,Wale,Clothing,Dress,473,72.16,5,COD,April,Qtr 2
+ORD-2437,Priya,Clothing,Trousers,3277,205.33,5,COD,October,Qtr 4
+ORD-2438,Priya,Clothing,Dress,1713,278.79,5,COD,August,Qtr 3
+ORD-2439,Yohann,Clothing,Shirt,3126,686.35,2,Debit Card,April,Qtr 2
+ORD-2440,Priya,Electronics,Laptops,9597,2378.68,3,Credit Card,November,Qtr 4
+ORD-2441,Rohan,Electronics,Accessories,10992,-1549.47,4,COD,July,Qtr 3
+ORD-2442,Wale,Clothing,Dress,572,154.45,3,COD,January,Qtr 1
+ORD-2443,Sneha,Furniture,Tables,8596,2281.04,2,COD,July,Qtr 3
+ORD-2444,Rohan,Clothing,Trousers,1361,109.42,2,UPI,January,Qtr 1
+ORD-2445,Yohann,Clothing,Saree,1174,144.56,5,Credit Card,January,Qtr 1
+ORD-2446,Kartik,Electronics,Printers,6341,-902.79,2,COD,May,Qtr 2
+ORD-2447,Sneha,Clothing,Saree,2405,185.55,1,COD,March,Qtr 1
+ORD-2448,Arjun,Clothing,Dress,853,179.61,5,COD,June,Qtr 2
+ORD-2449,Yash,Clothing,Trousers,3067,201.85,2,Credit Card,August,Qtr 3
+ORD-2450,Vrinda,Electronics,Accessories,2409,574.71,1,COD,April,Qtr 2
+ORD-2451,Yohann,Electronics,Accessories,11635,3170.06,2,Credit Card,January,Qtr 1
+ORD-2452,Yaanvi,Clothing,Saree,3138,323.58,3,COD,October,Qtr 4
+ORD-2453,Vrinda,Electronics,Phones,10767,-1025.43,5,Credit Card,July,Qtr 3
+ORD-2454,Kartik,Furniture,Furnishings,4029,375.7,5,Credit Card,August,Qtr 3
+ORD-2455,Kartik,Furniture,Tables,7125,708.72,5,Credit Card,February,Qtr 1
+ORD-2456,Arjun,Clothing,Dress,2431,533.03,2,Credit Card,October,Qtr 4
+ORD-2457,Rohan,Clothing,Trousers,1173,93.96,2,COD,September,Qtr 3
+ORD-2458,Arjun,Electronics,Phones,11245,-1219.14,3,UPI,May,Qtr 2
+ORD-2459,Yash,Clothing,Shirt,2158,447.41,4,COD,December,Qtr 4
+ORD-2460,Ananya,Electronics,Accessories,6861,-854.41,4,UPI,July,Qtr 3
+ORD-2461,Vrinda,Clothing,Dress,3208,853.42,1,COD,January,Qtr 1
+ORD-2462,Ananya,Clothing,Saree,2927,658.59,3,Net Banking,February,Qtr 1
+ORD-2463,Vrinda,Furniture,Chairs,8968,830.42,2,Credit Card,November,Qtr 4
+ORD-2464,Rohan,Electronics,Phones,3280,473.51,4,Credit Card,July,Qtr 3
+ORD-2465,Ananya,Furniture,Bookcases,9059,-395.3,2,UPI,December,Qtr 4
+ORD-2466,Yogesh,Clothing,Saree,2613,652.88,4,COD,September,Qtr 3
+ORD-2467,Yash,Furniture,Bookcases,4269,1167.32,1,Credit Card,January,Qtr 1
+ORD-2468,Kartik,Electronics,Printers,4712,1304.6,2,Credit Card,March,Qtr 1
+ORD-2469,Yogesh,Electronics,Laptops,2139,577.82,3,UPI,August,Qtr 3
+ORD-2470,Kartik,Electronics,Laptops,2751,547.97,2,COD,April,Qtr 2
+ORD-2471,Yohann,Electronics,Printers,11157,1934.88,3,UPI,April,Qtr 2
+ORD-2472,Priya,Electronics,Laptops,10208,2847.71,1,COD,December,Qtr 4
+ORD-2473,Ananya,Clothing,Saree,573,67.4,3,UPI,June,Qtr 2
+ORD-2474,Yaanvi,Electronics,Laptops,7259,1403.05,1,UPI,January,Qtr 1
+ORD-2475,Wale,Clothing,Dress,1051,191.29,5,Credit Card,October,Qtr 4
+ORD-2476,Yogesh,Furniture,Tables,9798,839.07,5,Debit Card,August,Qtr 3
+ORD-2477,Wale,Furniture,Bookcases,8525,1854.43,2,Credit Card,April,Qtr 2
+ORD-2478,Rohan,Electronics,Printers,4654,853.31,4,COD,November,Qtr 4
+ORD-2479,Ananya,Clothing,Dress,1882,-162.82,2,COD,December,Qtr 4
+ORD-2480,Rohan,Electronics,Phones,8117,926.65,5,Net Banking,March,Qtr 1
+ORD-2481,Arjun,Clothing,Dress,810,174.43,2,COD,August,Qtr 3
+ORD-2482,Ananya,Electronics,Laptops,2884,171.79,4,Net Banking,October,Qtr 4
+ORD-2483,Arjun,Clothing,Shirt,584,-81.84,2,Credit Card,May,Qtr 2
+ORD-2484,Rohan,Electronics,Accessories,8321,-469.99,1,COD,July,Qtr 3
+ORD-2485,Sneha,Clothing,Dress,2404,131.52,5,COD,February,Qtr 1
+ORD-2486,Yohann,Electronics,Printers,6218,-461.67,2,Credit Card,December,Qtr 4
+ORD-2487,Priya,Electronics,Phones,10164,-1244.21,2,COD,December,Qtr 4
+ORD-2488,Rohan,Furniture,Bookcases,14622,2168.5,5,COD,April,Qtr 2
+ORD-2489,Yogesh,Clothing,Trousers,1602,222.74,2,Credit Card,September,Qtr 3
+ORD-2490,Sneha,Clothing,Dress,2892,677.8,2,Credit Card,October,Qtr 4
+ORD-2491,Vrinda,Electronics,Phones,10483,1709.9,2,Credit Card,November,Qtr 4
+ORD-2492,Yogesh,Electronics,Printers,3622,-516.4,2,Credit Card,May,Qtr 2
+ORD-2493,Yohann,Electronics,Phones,4529,1216.67,5,COD,February,Qtr 1
+ORD-2494,Priya,Electronics,Laptops,5742,1090.34,1,Credit Card,December,Qtr 4
+ORD-2495,Priya,Electronics,Phones,9324,1476.51,3,COD,September,Qtr 3
+ORD-2496,Rohan,Furniture,Furnishings,13064,1847.54,2,Debit Card,September,Qtr 3
+ORD-2497,Yogesh,Clothing,Shirt,3082,815.73,3,UPI,May,Qtr 2
+ORD-2498,Ananya,Furniture,Chairs,14752,3885.62,4,UPI,November,Qtr 4
+ORD-2499,Rohan,Clothing,Shirt,420,114.32,5,Credit Card,June,Qtr 2
